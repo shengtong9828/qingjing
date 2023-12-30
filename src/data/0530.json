@@ -1,0 +1,2192 @@
+{
+  "data": {
+      "dakaUserInfo": {
+          "avatar": "https://cc.hjfile.cn/cc/img/20231020/2023102006580863363416.jpg",
+          "identity": 0,
+          "nickName": "東南隅【0530】",
+          "userId": 164418225
+      },
+      "hasEnter": false,
+      "items": [
+          {
+              "contentId": 38214484,
+              "createdTime": "2023-12-29T08:17:08+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":2305,\"src\":\"https://cc.hjfile.cn/cc/img/20231229/20231229081336384191.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"流水落花春去也，天上人间。\",\"hasMore\":false}",
+              "taskId": 700495,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 38186212,
+              "createdTime": "2023-12-27T08:11:45+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2304,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231227/2023122708104842723617.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"自信人生二百年，会当水击三千里。😎\",\"hasMore\":false}",
+              "taskId": 700493,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 38181671,
+              "createdTime": "2023-12-26T20:17:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2304,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231226/2023122608115382027231.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231226/2023122608120328636428.jpg\",\"idx\":1},{\"width\":2304,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231226/2023122608120253967500.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"抄大佬去年的作业，快抄完了发现，这文案不大对劲啊🥲\",\"hasMore\":false}",
+              "taskId": 700543,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 38089320,
+              "createdTime": "2023-12-22T09:13:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231222/2023122209123632778043.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231222/2023122209123577297986.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"鸽几天，希望周二回来手感别太离谱。\",\"hasMore\":false}",
+              "taskId": 700540,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 38066622,
+              "createdTime": "2023-12-21T10:10:47+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231221/2023122110104248981820.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"世2。最近好忙啊，就算抽空练会也有无数个人发消息，根本静不下来，快点结束吧…\",\"hasMore\":false}",
+              "taskId": 700490,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 38021303,
+              "createdTime": "2023-12-18T20:07:37+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231218/2023121808064180452234.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231218/2023121808064083178446.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"世1。筋疲力竭，勉强写俩😵‍💫\",\"hasMore\":false}",
+              "taskId": 700488,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37988928,
+              "createdTime": "2023-12-17T10:38:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231217/2023121710381459452346.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231217/2023121710381436388067.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"嗣7。阴晴圆缺都休说，且喜人间好时节。\",\"hasMore\":false}",
+              "taskId": 700487,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37981908,
+              "createdTime": "2023-12-16T20:41:16+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231216/2023121608392306862773.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231216/2023121608392259076673.jpg\",\"idx\":1},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231216/2023121608392348565553.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"嗣6。请教老师为什么竹纸能“更练手上工夫”？我咋感觉鹿鸣这种摩擦小的纸更能把问题放大？😅\",\"hasMore\":false}",
+              "taskId": 700486,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37954530,
+              "createdTime": "2023-12-14T18:49:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231214/2023121406484259195382.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231214/202312140648440115792.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"嗣5。手感不好时，就少写一点吧！😎\",\"hasMore\":false}",
+              "taskId": 700536,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37940351,
+              "createdTime": "2023-12-13T17:16:27+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":2304,\"src\":\"https://cc.hjfile.cn/cc/img/20231213/2023121305162091455095.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"嗣4。初体验，竹纸确实好用。也真的不适合练线条，这不得洇出大满贯😎不过诚心发问：这个纸和鹿鸣哪个更练手头工夫？感觉鹿鸣是不会包容任何瑕疵，体现的明明白白，这个纸写出来好看，但有些问题会被掩盖，只试了一天，也不知道感觉准不准。总结：旱的旱死，涝的涝死。\",\"hasMore\":false}",
+              "taskId": 700535,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37929907,
+              "createdTime": "2023-12-12T21:06:59+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4095,\"height\":2304,\"src\":\"https://cc.hjfile.cn/cc/img/20231212/2023121209063858529025.jpg\",\"idx\":0},{\"width\":4095,\"height\":2304,\"src\":\"https://cc.hjfile.cn/cc/img/20231212/2023121209063915621993.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"嗣3。这个字越写越舒适，不过总是大了点。\",\"hasMore\":false}",
+              "taskId": 700534,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37908887,
+              "createdTime": "2023-12-11T08:14:39+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4095,\"height\":2304,\"src\":\"https://cc.hjfile.cn/cc/img/20231211/2023121108142344516568.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"嗣2。感觉自己写的是不是有点太慢了，大佬们写这个字一般多久？\",\"hasMore\":false}",
+              "taskId": 700533,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37903800,
+              "createdTime": "2023-12-10T20:06:59+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231210/2023121008050354294050.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231210/2023121008050192859849.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"昔7嗣1纟22。物有甘苦，尝之者识；道有夷险，履之者知。\",\"hasMore\":false}",
+              "taskId": 700532,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37886110,
+              "createdTime": "2023-12-09T11:52:01+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":2776,\"src\":\"https://cc.hjfile.cn/cc/img/20231209/2023120911492706455306.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231209/2023120911492517282894.jpg\",\"idx\":1},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231209/2023120911492442284993.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"昔6纟21。有朋友说被“万”虐了，我提笔就准备给他报仇，结果亦被斩于马下…转折处侧锋太难处理了，就此作罢，告辞！[抱拳]\",\"hasMore\":false}",
+              "taskId": 700531,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37879557,
+              "createdTime": "2023-12-08T21:16:49+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231208/2023120809163363424327.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231208/2023120809164087361270.jpg\",\"idx\":1},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231208/2023120809163824429766.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"昔5。明朝即长路，惜取此时心。\",\"hasMore\":false}",
+              "taskId": 700530,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37841263,
+              "createdTime": "2023-12-06T20:28:13+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231206/2023120608280803596525.jpg\",\"idx\":0},{\"width\":2417,\"height\":2417,\"src\":\"https://cc.hjfile.cn/cc/img/20231206/2023120608270174149718.jpg\",\"idx\":1},{\"width\":2567,\"height\":2567,\"src\":\"https://cc.hjfile.cn/cc/img/20231206/2023120608273319353102.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"昔4。除了单字的难度外，把控字与字之间大小胖瘦高矮也很重要，下面还是成不了一条直线，继续加油吧。\",\"hasMore\":false}",
+              "taskId": 700528,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37820062,
+              "createdTime": "2023-12-05T21:08:15+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":2304,\"src\":\"https://cc.hjfile.cn/cc/img/20231205/2023120509035833736217.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231205/2023120509035051152988.jpg\",\"idx\":1},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231205/2023120509035831166456.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"昔3纟20。学书养气，亦可静心。最近工作太忙甚是疲惫，下班回家都想鸽一天，所幸提起了笔。第一个字写完感觉就来了，不纯粹是那种写字的手感，而是人突然静下来了，身体或许还有些疲惫，但内心如雪后初晴，顿扫阴霾之气，妙极了。\",\"hasMore\":false}",
+              "taskId": 700485,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37796499,
+              "createdTime": "2023-12-04T20:37:12+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231204/2023120408365114086121.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231204/2023120408365472730857.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"昔2纟19。君子之所为，众人固不识也。\",\"hasMore\":false}",
+              "taskId": 700527,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37776497,
+              "createdTime": "2023-12-03T20:32:53+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2304,\"height\":3759,\"src\":\"https://cc.hjfile.cn/cc/img/20231203/2023120308291604477965.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231203/2023120308291655730914.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"在7昔1。为什么我看一本书，第一遍看完能记住的东西不到十之一二，还要去看第二遍，记忆力如此之差，你们也这样吗？😓\",\"hasMore\":false}",
+              "taskId": 700526,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37748016,
+              "createdTime": "2023-12-02T14:58:00+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2262,\"height\":3499,\"src\":\"https://cc.hjfile.cn/cc/img/20231202/2023120202553232536159.jpg\",\"idx\":0},{\"width\":2304,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231202/2023120202553435842834.jpg\",\"idx\":1},{\"width\":2304,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231202/2023120202553546713162.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"在6纟18，我想练字就练字，想看书就看书，想睡觉就睡觉，每每思及此处，便顿觉来自灵魂深处的舒爽。\",\"hasMore\":false}",
+              "taskId": 700484,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37739029,
+              "createdTime": "2023-12-01T22:24:07+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231201/2023120110230048432751.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231201/2023120110225361753489.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"在5纟17，不好，但没关系。😎\",\"hasMore\":false}",
+              "taskId": 700483,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37715934,
+              "createdTime": "2023-11-30T20:10:30+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231130/2023113008101765644364.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231130/2023113008101973840482.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"在4纟16。红叶黄花秋意晚，千里念行客。飞云过尽，归鸿无信，何处寄书得？\\n\",\"hasMore\":false}",
+              "taskId": 700482,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37682191,
+              "createdTime": "2023-11-29T07:36:05+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231129/2023112907355442864138.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"在3纟15。只有纯粹的横与竖，却并不简单。没有花哨的笔画润色，线条问题十分凸显，这些问题与前面线条练习所存在的问题并不相同。单线的质感与整体的融合要相得益彰，像是很吃功力的一个字。\",\"hasMore\":false}",
+              "taskId": 700481,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37677139,
+              "createdTime": "2023-11-28T21:19:49+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231128/202311280917408682451.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231128/2023112809193231533161.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231128/2023112809193392071272.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"在2纟14。写累了，刚好睡觉(¯o¯)💤\",\"hasMore\":false}",
+              "taskId": 700525,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37658972,
+              "createdTime": "2023-11-27T19:43:45+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231127/2023112707432904576783.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"在1纟13。晚上加练，重新打卡补齐消失的纟。\",\"hasMore\":false}",
+              "taskId": 700480,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37637123,
+              "createdTime": "2023-11-26T10:31:53+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1200,\"height\":2670,\"src\":\"https://cc.hjfile.cn/cc/img/20231126/2023112610313006846450.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"初7纟12。交友须带三分侠气，做人要存一点素心。\",\"hasMore\":false}",
+              "taskId": 700524,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37631265,
+              "createdTime": "2023-11-25T20:57:32+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231125/2023112508560714359290.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231125/2023112508560599120592.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"初6纟11。学会用好摆烂心态，能让自己身心愉悦。\",\"hasMore\":false}",
+              "taskId": 700479,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37620366,
+              "createdTime": "2023-11-24T21:30:10+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231124/2023112409300174173985.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"初5纟11。练字状态直观反应身体状态，罢了，今天就到这，睡觉！！\",\"hasMore\":false}",
+              "taskId": 700478,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37604794,
+              "createdTime": "2023-11-23T19:29:57+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231123/2023112307285083378753.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"初4纟10。尘心洗尽兴难尽，一树蝉声片影斜。\",\"hasMore\":false}",
+              "taskId": 700523,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37575720,
+              "createdTime": "2023-11-21T19:38:32+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231121/2023112107382262628263.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"初3纟9。哎嘿！这几个字今儿写的还挺爽。\",\"hasMore\":false}",
+              "taskId": 700521,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37560403,
+              "createdTime": "2023-11-20T20:20:19+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231120/2023112008181616072332.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"初2纟8。一周不行，这个纟我要练一个月，势必拿捏你！！\",\"hasMore\":false}",
+              "taskId": 700520,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37539904,
+              "createdTime": "2023-11-19T15:46:43+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231119/2023111903450338351460.jpg\",\"idx\":0},{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231119/2023111903450277140262.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"维7初1。换了个字，有种刑满释放的感觉😅前面的字不常复习也会退步[加油]\",\"hasMore\":false}",
+              "taskId": 700437,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37527974,
+              "createdTime": "2023-11-18T20:13:34+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3072,\"height\":4096,\"src\":\"https://cc.hjfile.cn/cc/img/20231118/2023111808125739355477.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"维6。平心静气，不急不躁，方有所获。\",\"hasMore\":false}",
+              "taskId": 700388,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37506048,
+              "createdTime": "2023-11-17T09:12:44+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231117/2023111709115708554312.jpg\",\"idx\":0},{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231117/2023111709115463933421.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"维5。好久没练，哈哈哈哈哈哈这横竖线条歪的呦。\",\"hasMore\":false}",
+              "taskId": 700436,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37490558,
+              "createdTime": "2023-11-16T08:47:36+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231116/2023111608462817033141.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"维4。我醉歌时君和，醉倒须君扶我，惟酒可忘忧。\",\"hasMore\":false}",
+              "taskId": 700387,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37478467,
+              "createdTime": "2023-11-15T12:41:16+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231115/2023111512402822887349.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"维3。加油加油加油加油加油\",\"hasMore\":false}",
+              "taskId": 700435,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37469608,
+              "createdTime": "2023-11-14T21:42:43+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3066,\"height\":4042,\"src\":\"https://cc.hjfile.cn/cc/img/20231114/2023111409422192713141.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"维2。琢磨了一下结构，还没参透，不过比开始好一些了，明天继续研究。\",\"hasMore\":false}",
+              "taskId": 700434,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37453293,
+              "createdTime": "2023-11-13T21:21:34+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2983,\"height\":3977,\"src\":\"https://cc.hjfile.cn/cc/img/20231113/2023111309205005650091.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"国9维1。稳住心态，坚实前往。\",\"hasMore\":false}",
+              "taskId": 700433,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37417707,
+              "createdTime": "2023-11-11T19:56:46+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4096,\"height\":3072,\"src\":\"https://cc.hjfile.cn/cc/img/20231111/2023111107540419958114.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"国8。已经一周多了还是不满意，本来。想问问牛牛继续写国还是练其它字破题，结果今天不点评，冥冥之中让我要多苟一天。😂\",\"hasMore\":false}",
+              "taskId": 700385,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37397517,
+              "createdTime": "2023-11-10T12:15:06+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231110/2023111012135079832414.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"国7。一周了还是差很多意思，明天继续，让牛牛点评救赎一下☹️\",\"hasMore\":false}",
+              "taskId": 700432,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37355283,
+              "createdTime": "2023-11-08T08:41:39+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2273,\"height\":1704,\"src\":\"https://cc.hjfile.cn/cc/img/20231108/202311080840479783579.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"国6。手感到时，上班时间也到了。\",\"hasMore\":false}",
+              "taskId": 700384,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37348473,
+              "createdTime": "2023-11-07T21:14:21+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231107/2023110709091107293797.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"国5。遥知不是雪，为有暗香来。\",\"hasMore\":false}",
+              "taskId": 700383,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37327561,
+              "createdTime": "2023-11-06T20:49:12+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2268,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231106/2023110608484665932074.jpg\",\"idx\":0},{\"width\":2268,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231106/202311060848468599928.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"国4。平心静气，不急不躁，方有所获。\\n宜：认真对待每一次练习\\n忌：三天打鱼两天晒网\\n忌：闷头傻练不思考不总结\",\"hasMore\":false}",
+              "taskId": 700430,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37308700,
+              "createdTime": "2023-11-05T19:38:07+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1652,\"height\":1238,\"src\":\"https://cc.hjfile.cn/cc/img/20231105/2023110507333375976948.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20231105/2023110507333483533711.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231105/2023110507333496432616.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"国3。这个国字越写越觉得有颜楷的气概，总给我一种宽博稳重之感，可能是因为外框有向外拱的趋势？最后三个字索性放大了这个特点，竟意外诞生MVP。\",\"hasMore\":false}",
+              "taskId": 673028,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37273137,
+              "createdTime": "2023-11-03T18:23:44+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231103/2023110306222058075078.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231103/2023110306222080416198.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231103/2023110306222070480231.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"帝2。意识跑在手法前，脑子想到了，手办不到😂控笔要继续加强。\",\"hasMore\":false}",
+              "taskId": 673026,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37256062,
+              "createdTime": "2023-11-02T18:36:59+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231102/2023110206331952997124.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231102/2023110206331957929333.jpg\",\"idx\":1},{\"width\":3372,\"height\":2528,\"src\":\"https://cc.hjfile.cn/cc/img/20231102/2023110206331901124540.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"国1。泱泱大国，教我做人！！很有挑战性😂总结了问题，有预感，明天肯定比今天要好一些😎\",\"hasMore\":false}",
+              "taskId": 673025,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37231472,
+              "createdTime": "2023-11-01T12:12:40+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231101/2023110112121481974322.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"立7。路转堤斜，直到城头总是花。\",\"hasMore\":false}",
+              "taskId": 672979,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37183435,
+              "createdTime": "2023-10-30T08:06:36+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231030/2023103008050176097079.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20231030/2023103008062954320527.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"立6。起收有待加强，另外感觉最近写的有些快了，今天试着慢了下来。\",\"hasMore\":false}",
+              "taskId": 672978,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37165531,
+              "createdTime": "2023-10-29T12:09:01+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231029/2023102912074994017060.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"立5。结构比昨天好了很多，写之前摹一个等大果然还是有用的。\",\"hasMore\":false}",
+              "taskId": 672977,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37155010,
+              "createdTime": "2023-10-28T21:25:59+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1798,\"height\":1348,\"src\":\"https://cc.hjfile.cn/cc/img/20231028/2023102809255354325819.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"立4。笔画少的字结构确实难，或者说因为没有那么多线条影响，问题会显露无疑。\",\"hasMore\":false}",
+              "taskId": 672976,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37115248,
+              "createdTime": "2023-10-27T08:05:20+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231027/2023102708044441122484.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"立3。打卡打卡打卡打卡打卡\",\"hasMore\":false}",
+              "taskId": 672975,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37106176,
+              "createdTime": "2023-10-26T20:10:13+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231026/2023102608085255493662.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"立2。再次进入衰退期，走出来时次更进一步，期待。\",\"hasMore\":false}",
+              "taskId": 673023,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37079959,
+              "createdTime": "2023-10-25T19:41:23+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2125,\"height\":1592,\"src\":\"https://cc.hjfile.cn/cc/img/20231025/2023102507400789347889.jpg\",\"idx\":0},{\"width\":1491,\"height\":2246,\"src\":\"https://cc.hjfile.cn/cc/img/20231025/2023102507402590416408.jpg\",\"idx\":0},{\"width\":1594,\"height\":1191,\"src\":\"https://cc.hjfile.cn/cc/img/20231025/2023102507405529244076.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"立1。（1）等这个字什么时候写的像一排排站立的士兵整整齐齐、气势恢宏就成了。（2）单字放在一起会发现新的结构问题\",\"hasMore\":false}",
+              "taskId": 673022,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37040556,
+              "createdTime": "2023-10-24T08:26:52+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2773,\"height\":2078,\"src\":\"https://cc.hjfile.cn/cc/img/20231024/2023102408262145377327.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"帝7。明天开新副本，打卡打卡打卡打卡打卡打卡。\",\"hasMore\":false}",
+              "taskId": 672974,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 37031903,
+              "createdTime": "2023-10-23T20:58:36+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231023/2023102308571717278391.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"帝6。想不明白，练字以后回头画线条，没有以前好，到底是手感没恢复，还是退步，长此以往有没影响啊？\",\"hasMore\":false}",
+              "taskId": 672973,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36981046,
+              "createdTime": "2023-10-21T21:24:58+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1325,\"height\":2026,\"src\":\"https://cc.hjfile.cn/cc/img/20231021/2023102109245100888253.jpg\",\"idx\":0},{\"width\":1933,\"height\":1370,\"src\":\"https://cc.hjfile.cn/cc/img/20231021/2023102109245104793161.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"帝5。忘记打卡，点评前极限操作。最近两天自己感觉书写时状态还不错。\",\"hasMore\":false}",
+              "taskId": 673021,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36936559,
+              "createdTime": "2023-10-20T08:17:08+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2044,\"height\":1539,\"src\":\"https://cc.hjfile.cn/cc/img/20231020/2023102008154125845878.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"帝4。心沉才能气沉、气沉才能使墨沉于纸。\",\"hasMore\":false}",
+              "taskId": 672971,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36905300,
+              "createdTime": "2023-10-19T08:15:47+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4030,\"height\":2915,\"src\":\"https://cc.hjfile.cn/cc/img/20231019/2023101908154140931422.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231019/2023101908154208732565.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"帝3。在纸上摹一个等大的字，可以更好地纠正结构问题，亲测有效，推荐😎\",\"hasMore\":false}",
+              "taskId": 672970,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36874227,
+              "createdTime": "2023-10-18T08:17:08+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1858,\"height\":1392,\"src\":\"https://cc.hjfile.cn/cc/img/20231018/2023101808123338984792.jpg\",\"idx\":0},{\"width\":2186,\"height\":1638,\"src\":\"https://cc.hjfile.cn/cc/img/20231018/2023101808124616814810.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"帝2。今早写完第三个字突然想到：既然慢一点可以写的更好一些，为什么要急于生产垃圾呢？\",\"hasMore\":false}",
+              "taskId": 673020,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36849430,
+              "createdTime": "2023-10-17T08:30:02+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231017/202310170826415632935.jpg\",\"idx\":0},{\"width\":3848,\"height\":2886,\"src\":\"https://cc.hjfile.cn/cc/img/20231017/2023101708264117687829.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"帝1。言为心声，字为心画。昨晚和今早，状态高低立判。\",\"hasMore\":false}",
+              "taskId": 673019,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36824390,
+              "createdTime": "2023-10-16T08:27:02+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2403,\"height\":1802,\"src\":\"https://cc.hjfile.cn/cc/img/20231016/202310160826200515485.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"皇7。不知道说点啥，就给大家拜个早年吧！\",\"hasMore\":false}",
+              "taskId": 673018,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36813783,
+              "createdTime": "2023-10-15T17:35:17+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2460,\"height\":1757,\"src\":\"https://cc.hjfile.cn/cc/img/20231015/2023101505343176256196.jpg\",\"idx\":0},{\"width\":2236,\"height\":1676,\"src\":\"https://cc.hjfile.cn/cc/img/20231015/2023101505344423533506.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"皇6。错过了昨晚的直播，太遗憾了！！！\",\"hasMore\":false}",
+              "taskId": 673017,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36760700,
+              "createdTime": "2023-10-13T12:03:35+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231013/202310131202373578613.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"皇5。结构好难🤯用笔也难\",\"hasMore\":false}",
+              "taskId": 672969,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36694701,
+              "createdTime": "2023-10-11T08:17:24+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231011/2023101108155150218507.jpg\",\"idx\":0},{\"width\":1754,\"height\":1314,\"src\":\"https://cc.hjfile.cn/cc/img/20231011/2023101108160665877932.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"皇4。结构，眼见的未必实😟\",\"hasMore\":false}",
+              "taskId": 672967,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36665300,
+              "createdTime": "2023-10-10T08:12:19+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1938,\"height\":2584,\"src\":\"https://cc.hjfile.cn/cc/img/20231010/2023101008025180348747.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231010/2023101008030390764064.jpg\",\"idx\":0},{\"width\":1046,\"height\":1035,\"src\":\"https://cc.hjfile.cn/cc/img/20231010/2023101008062724412285.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"皇3。不对劲，总感觉结构不对劲，又发现不了在哪，是下面的“王”纵向有些长了吗？（打完这些字去不厌搜“皇”字才发现，果然电子版更清晰一些，甚至感觉很打印的存在一些字型差距…有必要对着电子版精临3天抠细节，后面单字就是2+3+2临摹模式了：2天临帖熟练某个字，3天电子版精临记住细节，再2天返回帖子看整体）\",\"hasMore\":false}",
+              "taskId": 672966,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36634628,
+              "createdTime": "2023-10-09T07:44:38+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231009/2023100907415950066174.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20231009/2023100907415979249635.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"皇2。感觉第一笔好难，应该是弧时这个位置是死角导致的。拿出上一刀买来没用的纸写了试试，果然习惯了鹿鸣的纸，还是好用！\",\"hasMore\":false}",
+              "taskId": 672965,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36609891,
+              "createdTime": "2023-10-08T08:12:26+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1808,\"height\":1356,\"src\":\"https://cc.hjfile.cn/cc/img/20231008/2023100808112124528418.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"皇1。造型艺术家上线，第一天手还是带些紧张和兴奋的情绪在的。😎\",\"hasMore\":false}",
+              "taskId": 672964,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36600003,
+              "createdTime": "2023-10-07T19:56:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231007/2023100707511481648745.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20231007/2023100707511455856206.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧30。请问老师我可以进入篆书练习了吗？？再就是纸的左半边各右半边不是同一支笔写的，线条质量有什么差距嘛？？给7个月线条一个小合影😎\",\"hasMore\":false}",
+              "taskId": 672963,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36575976,
+              "createdTime": "2023-10-06T19:26:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":2833,\"src\":\"https://cc.hjfile.cn/cc/img/20231006/2023100607221398712798.jpg\",\"idx\":0},{\"width\":3871,\"height\":2902,\"src\":\"https://cc.hjfile.cn/cc/img/20231006/2023100607221418140834.jpg\",\"idx\":1},{\"width\":1080,\"height\":1614,\"src\":\"https://cc.hjfile.cn/cc/img/20231006/2023100607221351188887.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"弧29。不会只有我一个人喜欢这种皱皱巴巴的感觉吧😂凹凸不平的线条似乎更具“活力”一些。开始体悟书写的过程而单单不执于这条线的结果，真好啊，左右对称的wifi弧线，偶尔一笔下去痛快的很！！\",\"hasMore\":false}",
+              "taskId": 672962,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36541757,
+              "createdTime": "2023-10-05T10:39:59+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1540,\"height\":2163,\"src\":\"https://cc.hjfile.cn/cc/img/20231005/202310051039185754523.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧28。—什么是自然？—从心所欲，不逾矩。\",\"hasMore\":false}",
+              "taskId": 672961,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36528579,
+              "createdTime": "2023-10-04T18:00:47+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2020,\"height\":1514,\"src\":\"https://cc.hjfile.cn/cc/img/20231004/2023100405594643267070.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20231004/2023100405595501051439.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧27。不好，不好，不好。心急了，手就不够利索了。\",\"hasMore\":false}",
+              "taskId": 672960,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36430634,
+              "createdTime": "2023-09-30T08:58:59+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2688,\"height\":4011,\"src\":\"https://cc.hjfile.cn/cc/img/20230930/202309300855225048441.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧26。家里的桌子有点高了，感觉以前的高执笔舒服一些，更灵活。\",\"hasMore\":false}",
+              "taskId": 672957,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36425007,
+              "createdTime": "2023-09-29T19:59:46+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2176,\"height\":1632,\"src\":\"https://cc.hjfile.cn/cc/img/20230929/2023092907584396578611.jpg\",\"idx\":0},{\"width\":2248,\"height\":1686,\"src\":\"https://cc.hjfile.cn/cc/img/20230929/2023092907585744321036.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"再次弧25。昨晚写的，滥竽充数。\",\"hasMore\":false}",
+              "taskId": 673014,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36400796,
+              "createdTime": "2023-09-28T08:11:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2086,\"height\":1564,\"src\":\"https://cc.hjfile.cn/cc/img/20230928/2023092808102386024780.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧25。学会在张驰之间，找到舒适的最优解。\",\"hasMore\":false}",
+              "taskId": 672956,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36392548,
+              "createdTime": "2023-09-27T19:50:08+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230927/2023092707500038417892.jpg\",\"idx\":0},{\"width\":2101,\"height\":1574,\"src\":\"https://cc.hjfile.cn/cc/img/20230927/202309270749473491587.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧24。不日新者必日退，未有不进而不退者。\",\"hasMore\":false}",
+              "taskId": 672955,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36370026,
+              "createdTime": "2023-09-26T19:06:55+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2718,\"height\":2038,\"src\":\"https://cc.hjfile.cn/cc/img/20230926/2023092607054473842373.jpg\",\"idx\":0},{\"width\":1879,\"height\":1408,\"src\":\"https://cc.hjfile.cn/cc/img/20230926/202309260705594828760.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧23。道在尔而求诸远，事在易而求之难。\",\"hasMore\":false}",
+              "taskId": 673013,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36312631,
+              "createdTime": "2023-09-24T10:25:49+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230924/2023092410250688031781.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230924/2023092410250704321926.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230924/2023092410250675728956.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"弧22。基本功基本功基本功练练练。\",\"hasMore\":false}",
+              "taskId": 672954,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36289381,
+              "createdTime": "2023-09-23T10:04:52+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230923/2023092310042939737588.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230923/2023092310042912686494.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230923/2023092310042884745384.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"弧21。外形的把控还是不够，在形之外想请教一下老师用笔是否有大问题。\",\"hasMore\":false}",
+              "taskId": 673011,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36264404,
+              "createdTime": "2023-09-22T07:59:28+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2499,\"height\":1874,\"src\":\"https://cc.hjfile.cn/cc/img/20230922/2023092207582501594791.jpg\",\"idx\":0},{\"width\":1996,\"height\":2663,\"src\":\"https://cc.hjfile.cn/cc/img/20230922/2023092207583468441467.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧20。横竖退步，等待恢复🤟\",\"hasMore\":false}",
+              "taskId": 672953,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36238724,
+              "createdTime": "2023-09-21T07:37:15+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3377,\"height\":2532,\"src\":\"https://cc.hjfile.cn/cc/img/20230921/2023092107354499864095.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230921/2023092107355218379310.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"昨晚偶尔写出几个相对可以的圈，书写时感受到了一股力，行笔时隐隐有万岁枯藤的感觉，岂料写完一看总的形体，这个圈又给我一种温润如玉的气质，真是神奇啊。书法中的阴阳无处不在，就算是简单的线条，松与紧、开与阖、筋与形、冲与接，乃至过程与结果、手感与视觉，种种囊括万殊，裁成一相，如能品味一二，何尝不是一种天趣呢。\",\"hasMore\":false}",
+              "taskId": 673010,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36213369,
+              "createdTime": "2023-09-20T08:09:11+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1866,\"height\":2489,\"src\":\"https://cc.hjfile.cn/cc/img/20230920/2023092008023925843647.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230920/2023092008024731320464.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧18。现阶段的弧感觉更像练手感，需要大量练习，是横与竖的结合。三者依次递进，绝非并列关系。法门在横、理解在竖、运用在弧。\",\"hasMore\":false}",
+              "taskId": 672952,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36187834,
+              "createdTime": "2023-09-19T08:19:50+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230919/2023091908182632841297.jpg\",\"idx\":0},{\"width\":2488,\"height\":1864,\"src\":\"https://cc.hjfile.cn/cc/img/20230919/202309190818250576751.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧17。手足同式，而举止殊容。\",\"hasMore\":false}",
+              "taskId": 672951,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36160123,
+              "createdTime": "2023-09-18T08:19:37+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230918/20230918081836591359.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧16。横不如竖；圈形状稍有改善，大小依旧拉胯。\",\"hasMore\":false}",
+              "taskId": 672950,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36141868,
+              "createdTime": "2023-09-17T14:00:15+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230917/2023091701592461559224.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧15。圆圈身材易走样，唯有多练。\",\"hasMore\":false}",
+              "taskId": 672949,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36127724,
+              "createdTime": "2023-09-16T20:23:10+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230916/2023091608222565328386.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230916/2023091608222568786602.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧14。行程近半，等待老师指点问题。\",\"hasMore\":false}",
+              "taskId": 672948,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36087322,
+              "createdTime": "2023-09-15T08:24:21+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1933,\"height\":1448,\"src\":\"https://cc.hjfile.cn/cc/img/20230915/2023091508224989357067.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230915/2023091508225946445448.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧13。横竖继续练，话到嘴边口难开。\",\"hasMore\":false}",
+              "taskId": 673009,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36059115,
+              "createdTime": "2023-09-14T08:20:56+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1938,\"height\":1452,\"src\":\"https://cc.hjfile.cn/cc/img/20230914/2023091408193156758180.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230914/2023091408194291886115.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧12。既然书法是一种艺术形式，那么书者无论如何是要有一些审美能力的。\",\"hasMore\":false}",
+              "taskId": 672947,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36034709,
+              "createdTime": "2023-09-13T08:10:35+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230913/2023091308061043140931.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧11。君子以文会友，以友辅仁。\",\"hasMore\":false}",
+              "taskId": 673008,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36026029,
+              "createdTime": "2023-09-12T19:41:13+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230912/2023091207392892685236.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230912/2023091207392895264469.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧10。本来想说的肌肤之丽在群里说完没得说了只能水文案今天的书写感受很好\",\"hasMore\":false}",
+              "taskId": 673007,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 36000973,
+              "createdTime": "2023-09-11T19:32:09+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230911/2023091107284675837494.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230911/2023091107284721735693.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧9。松之于弧，较横竖更显直观，后者紧张可能只是线条没那么丝滑，前者紧张是真给你绞住写不下去啊。虽然不多，但终于有点进步的成分在里面了。😢\",\"hasMore\":false}",
+              "taskId": 673006,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35967263,
+              "createdTime": "2023-09-10T15:24:31+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230910/202309100323131988287.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧8。日拱一卒，功不唐捐😮！！！\",\"hasMore\":false}",
+              "taskId": 673005,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35940785,
+              "createdTime": "2023-09-09T14:24:11+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2112,\"height\":1584,\"src\":\"https://cc.hjfile.cn/cc/img/20230909/2023090902210241913515.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230909/2023090902211435517809.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"弧7。一个周了，左下角绞锋还是没解决😢横竖几天没练，今天回顾一下手感，不愧是基本功中的基本功。\",\"hasMore\":false}",
+              "taskId": 672946,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35931556,
+              "createdTime": "2023-09-08T23:33:23+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230908/2023090811324144383062.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧6。稳住，日复一日，慢点没事。\",\"hasMore\":false}",
+              "taskId": 673004,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35895926,
+              "createdTime": "2023-09-07T18:32:04+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230907/2023090706301322329646.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"左下角为嘛总是转不过来会绞住呢？导致下横也总写不好。（113是真的比述古难控\",\"hasMore\":false}",
+              "taskId": 672945,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35857413,
+              "createdTime": "2023-09-06T09:04:55+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230906/2023090609013765543852.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230906/2023090609013642529824.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230906/2023090609013770485289.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":6,\"audioTotalCount\":0,\"text\":\"弧4，练弧哪有不疯的。竖线打板！\",\"hasMore\":false}",
+              "taskId": 673003,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35834895,
+              "createdTime": "2023-09-05T08:11:12+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230905/2023090508082291885301.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"弧3。比昨天好了一点，但侧锋的成分还是太多了、框架不均匀也要改。找到了点横线初练时的猎奇感。\",\"hasMore\":false}",
+              "taskId": 673002,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35813463,
+              "createdTime": "2023-09-04T08:57:01+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230904/2023090408560767852572.jpg\",\"idx\":0},{\"width\":2211,\"height\":1490,\"src\":\"https://cc.hjfile.cn/cc/img/20230904/2023090408560681613024.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"左下角弧写的时候，手腕转的厉害，这正常嘛😤\",\"hasMore\":false}",
+              "taskId": 673001,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35791992,
+              "createdTime": "2023-09-03T07:07:57+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":3661,\"src\":\"https://cc.hjfile.cn/cc/img/20230903/2023090307042466988570.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"仿佛每根线条都在提醒我换种报效祖国的方式，去投笔从戎\",\"hasMore\":false}",
+              "taskId": 672800,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35771492,
+              "createdTime": "2023-09-02T05:45:10+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230902/2023090205423845047180.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230902/202309020542393474511.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"竖61天\\n牛牛你看我可以画圈圈吗？\\n最后几根没时间实在写不完了，谁好人五点半匆匆忙忙去上班😤\",\"hasMore\":false}",
+              "taskId": 672944,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35750960,
+              "createdTime": "2023-09-01T08:13:10+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1816,\"height\":2277,\"src\":\"https://cc.hjfile.cn/cc/img/20230901/2023090108114027933676.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230901/2023090108114128724305.jpg\",\"idx\":1},{\"width\":3543,\"height\":2880,\"src\":\"https://cc.hjfile.cn/cc/img/20230901/2023090108114076469095.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"练竖俩月，能说的不多，就是加强练横的手头工夫、消化一下横的感悟心得。\",\"hasMore\":false}",
+              "taskId": 672799,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35730042,
+              "createdTime": "2023-08-31T07:40:00+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3699,\"height\":2774,\"src\":\"https://cc.hjfile.cn/cc/img/20230831/2023083107383081156505.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"从前是日出之阳，现在如日中之光，且把光阴惜。\",\"hasMore\":false}",
+              "taskId": 672943,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35710239,
+              "createdTime": "2023-08-30T07:42:39+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230830/2023083007422786782338.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"平心静气，不急不躁，方有所获。\\n宜：认真对待每一次练习\\n忌：三天打鱼两天晒网\\n忌：闷头傻练不思考不总结\",\"hasMore\":false}",
+              "taskId": 672798,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35692589,
+              "createdTime": "2023-08-29T08:05:09+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230829/2023082908041935871060.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230829/2023082908041949027287.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"竖还没练好，怎么就开始写弧？\",\"hasMore\":false}",
+              "taskId": 672797,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35677464,
+              "createdTime": "2023-08-28T07:53:49+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230828/2023082807531934152139.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230828/202308280753195758351.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"只有五天了，同志还要加把劲呀！\",\"hasMore\":false}",
+              "taskId": 672796,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35664868,
+              "createdTime": "2023-08-27T12:03:12+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230827/2023082712012700365428.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230827/2023082712012726092474.jpg\",\"idx\":1},{\"width\":2118,\"height\":1588,\"src\":\"https://cc.hjfile.cn/cc/img/20230827/202308271201262982476.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"昨夜雨疏风骤，浓睡不消残酒。\",\"hasMore\":false}",
+              "taskId": 672795,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35648705,
+              "createdTime": "2023-08-26T10:15:28+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230826/2023082610112911119177.jpg\",\"idx\":0},{\"width\":2172,\"height\":1808,\"src\":\"https://cc.hjfile.cn/cc/img/20230826/2023082610112865981336.jpg\",\"idx\":1},{\"width\":2344,\"height\":1758,\"src\":\"https://cc.hjfile.cn/cc/img/20230826/2023082610112909494285.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"“尽日寻春不见春，芒鞋踏遍陇头云。归来笑拈梅花嗅，春在枝头已十分。”道不远人，何必道在迩而求诸远，做好当下。\",\"hasMore\":false}",
+              "taskId": 672794,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35635466,
+              "createdTime": "2023-08-25T08:11:52+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230825/202308250807460446808.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230825/2023082508074602732187.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230825/2023082508074614775733.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"拟歌先敛，欲笑还颦，最断人肠。拟左先右，欲上还下，方成笔势。\",\"hasMore\":false}",
+              "taskId": 672793,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35623193,
+              "createdTime": "2023-08-24T08:21:13+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2529,\"height\":3898,\"src\":\"https://cc.hjfile.cn/cc/img/20230824/2023082408190327934317.jpg\",\"idx\":0},{\"width\":1979,\"height\":3558,\"src\":\"https://cc.hjfile.cn/cc/img/20230824/2023082408190301398413.jpg\",\"idx\":1},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230824/2023082408190262490629.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"要有积极思考的大脑、一往无前的气概，还要有一颗勇敢试错的心。\",\"hasMore\":false}",
+              "taskId": 672792,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35612423,
+              "createdTime": "2023-08-23T11:43:56+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230823/202308231141458064697.jpg\",\"idx\":0},{\"width\":2580,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230823/2023082311414729073275.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"上包纸用完，新纸还是要继续磨合一下。\",\"hasMore\":false}",
+              "taskId": 672942,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35597173,
+              "createdTime": "2023-08-22T08:07:10+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1175,\"height\":2072,\"src\":\"https://cc.hjfile.cn/cc/img/20230822/202308220805334417601.jpg\",\"idx\":0},{\"width\":929,\"height\":1758,\"src\":\"https://cc.hjfile.cn/cc/img/20230822/2023082208055655236440.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"独学而无友，则孤陋而寡闻。\",\"hasMore\":false}",
+              "taskId": 672791,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35580212,
+              "createdTime": "2023-08-21T08:17:00+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1498,\"height\":2627,\"src\":\"https://cc.hjfile.cn/cc/img/20230821/2023082108150555976323.jpg\",\"idx\":0},{\"width\":1196,\"height\":2203,\"src\":\"https://cc.hjfile.cn/cc/img/20230821/2023082108155448041057.jpg\",\"idx\":0},{\"width\":2360,\"height\":1274,\"src\":\"https://cc.hjfile.cn/cc/img/20230821/2023082108160672653462.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"灵雨霏霏，乍起乍歇；山头烟合，忽掩青螺；树杪云蒸，顷迷翠黛。\",\"hasMore\":false}",
+              "taskId": 672790,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35566087,
+              "createdTime": "2023-08-20T09:55:45+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230820/202308200955278658481.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"图难于其易，为大于其细。天下难事，必作于易；天下大事，必作于细。\",\"hasMore\":false}",
+              "taskId": 672789,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35558249,
+              "createdTime": "2023-08-19T19:32:04+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230819/2023081907300124877931.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"量腹而食，度身而衣。（满十三\",\"hasMore\":false}",
+              "taskId": 672788,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35529612,
+              "createdTime": "2023-08-18T08:06:23+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2430,\"height\":1822,\"src\":\"https://cc.hjfile.cn/cc/img/20230818/202308180806102827580.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"困于心，衡于虑，而后作。征于色，发于声，而后喻。\",\"hasMore\":false}",
+              "taskId": 672787,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35513757,
+              "createdTime": "2023-08-17T11:56:48+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230817/2023081711555430053007.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"为什么要写几根才能进入感觉呢？\",\"hasMore\":false}",
+              "taskId": 672941,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35487240,
+              "createdTime": "2023-08-16T08:13:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":959,\"src\":\"https://cc.hjfile.cn/cc/img/20230816/2023081608131669135889.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"且趁闲身未老，尽放我、些子疏狂。\",\"hasMore\":false}",
+              "taskId": 672940,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35465541,
+              "createdTime": "2023-08-15T08:16:17+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230815/2023081508143237931663.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230815/2023081508143294518961.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"诚者，天之道也、思诚者，人之道也。至诚而不动者，未之有也、不诚，未有能动者也。\",\"hasMore\":false}",
+              "taskId": 672939,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35442730,
+              "createdTime": "2023-08-14T08:13:34+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2429,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230814/2023081408131843346519.jpg\",\"idx\":0},{\"width\":2461,\"height\":3934,\"src\":\"https://cc.hjfile.cn/cc/img/20230814/2023081408131902886275.jpg\",\"idx\":1},{\"width\":3698,\"height\":2022,\"src\":\"https://cc.hjfile.cn/cc/img/20230814/2023081408131765552734.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"星佬用鹌鹑蛋和筷子做比喻简直太妙了。我发力的救赎之道就在其中。多一分力少一分力都夹不起，心神往那一照，手是自然做出反应的，大脑甚至没思考用几分力。\\n\\n尝试复盘这种自然发力的来源并应用在练线条上：一是大量重复，经验形成的肌肉反应（发力的度）。源自从小对自己发力程度和筷子的了解，中VS外，老手VS小白。二是紧张的消除，正常人用筷子时只会心神一动，我要夹了，不会去想夹不起来怎么办。初练线条可能心有执念：\",\"hasMore\":true}",
+              "taskId": 672786,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35424903,
+              "createdTime": "2023-08-13T09:30:18+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1815,\"height\":3490,\"src\":\"https://cc.hjfile.cn/cc/img/20230813/2023081309295170668852.jpg\",\"idx\":0},{\"width\":2093,\"height\":3888,\"src\":\"https://cc.hjfile.cn/cc/img/20230813/202308130929520072493.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"不深思则不能造于道，不深思而得者，其得易失。然而学者有无思虑而得者，何也？曰：以无思无虑而得者，乃所以深思而得之也。以无思无虑为不思而自以为得者，未之有也。\",\"hasMore\":false}",
+              "taskId": 672938,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35406026,
+              "createdTime": "2023-08-12T10:13:46+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2182,\"height\":3879,\"src\":\"https://cc.hjfile.cn/cc/img/20230812/2023081210072646712112.jpg\",\"idx\":0},{\"width\":2266,\"height\":4029,\"src\":\"https://cc.hjfile.cn/cc/img/20230812/2023081210072681861189.jpg\",\"idx\":1},{\"width\":2076,\"height\":1504,\"src\":\"https://cc.hjfile.cn/cc/img/20230812/2023081210072587761874.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"关于这个精神状态😂自然就好？昨晚尝试再去放松，就感觉把握不住了，线条会自然变歪，再去修正反而要费更大的劲，今上午“紧张”了一下，反而感觉紧的刚刚好，给我整懵了朋友们😮\",\"hasMore\":false}",
+              "taskId": 672785,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35382535,
+              "createdTime": "2023-08-11T07:54:37+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230811/2023081107542058272168.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230811/2023081107542124446284.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"【精神上放松不要憋气】太过于努力紧张，容易憋着气行笔，手放松点，自然呼吸。行笔过程中手部用力的松与紧顺其自然即可。精神上的紧张容易引起手部不自觉的强行让笔毫无时无刻处于绷紧的状态，这样会降低线条质量，同时也难入静，还会很累。所以要以一种闲庭散步的姿态去行笔。毛笔保持住弹性，也不是一直让它绷紧到最强限度，它的弹性其实也有一个微小的区间，呼应书者的放松状态下的自然呼吸，毛笔其实也是有一个呼吸感，它不是\",\"hasMore\":true}",
+              "taskId": 672784,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35360365,
+              "createdTime": "2023-08-10T08:04:45+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2584,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230810/2023081008022153192822.jpg\",\"idx\":0},{\"width\":2823,\"height\":4029,\"src\":\"https://cc.hjfile.cn/cc/img/20230810/2023081008022031445973.jpg\",\"idx\":1},{\"width\":4030,\"height\":1971,\"src\":\"https://cc.hjfile.cn/cc/img/20230810/2023081008022084541399.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"昨晚注意了弯腰和低头的问题，果然比今早要好一些。练竖起笔离身体比较远，胳膊的稳定性刚练时不高，为了稳住起笔总会不自觉弯腰过度，这几天慢慢改正。\",\"hasMore\":false}",
+              "taskId": 672937,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35337623,
+              "createdTime": "2023-08-09T08:16:45+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230809/2023080908125608815109.jpg\",\"idx\":0},{\"width\":2461,\"height\":3881,\"src\":\"https://cc.hjfile.cn/cc/img/20230809/2023080908125352221726.jpg\",\"idx\":1},{\"width\":3935,\"height\":1907,\"src\":\"https://cc.hjfile.cn/cc/img/20230809/2023080908125512621455.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"那种自然而然的宛若内劲般的结实还是不够还是不够还是不够，加油！！！\",\"hasMore\":false}",
+              "taskId": 672936,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35319314,
+              "createdTime": "2023-08-08T10:48:42+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2482,\"height\":3928,\"src\":\"https://cc.hjfile.cn/cc/img/20230808/2023080810471341799142.jpg\",\"idx\":0},{\"width\":2945,\"height\":3917,\"src\":\"https://cc.hjfile.cn/cc/img/20230808/2023080810471401774237.jpg\",\"idx\":1},{\"width\":4030,\"height\":2483,\"src\":\"https://cc.hjfile.cn/cc/img/20230808/2023080810471349428381.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"虽有天下易生之物也，一日暴之，十日寒之，未有能生者也。\",\"hasMore\":false}",
+              "taskId": 672783,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35299435,
+              "createdTime": "2023-08-07T07:40:00+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230807/2023080707394953834114.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"右二笔没舔净，墨过多，感受不到笔的弹力和摩擦，脚下没根容易按的过重，软绵绵滴，以后避雷了。\",\"hasMore\":false}",
+              "taskId": 658326,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35291721,
+              "createdTime": "2023-08-06T19:36:53+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230806/2023080607340034551004.jpg\",\"idx\":0},{\"width\":4030,\"height\":2970,\"src\":\"https://cc.hjfile.cn/cc/img/20230806/2023080607340062359968.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"几天没写横，今天起笔就想写细，反倒得到一根羸弱的线条。还是踏踏实实练内功，控笔自然而然就会更好。写细也是一种果。\",\"hasMore\":false}",
+              "taskId": 658325,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35268635,
+              "createdTime": "2023-08-05T06:31:12+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230805/2023080506294954812136.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"强提一口气写，无力，感冒快好😩\",\"hasMore\":false}",
+              "taskId": 658324,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35252540,
+              "createdTime": "2023-08-04T08:18:59+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230804/2023080408185283894881.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230804/2023080408185202453805.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"凡操千曲而后晓声，观千剑而后识器。故圆照之象，务先博观。这几天大抵是有些改善的。\",\"hasMore\":false}",
+              "taskId": 658228,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35235884,
+              "createdTime": "2023-08-03T08:12:29+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2932,\"height\":3910,\"src\":\"https://cc.hjfile.cn/cc/img/20230803/2023080308121876275463.jpg\",\"idx\":0},{\"width\":2940,\"height\":3866,\"src\":\"https://cc.hjfile.cn/cc/img/20230803/2023080308121869738189.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"凡世之所贵，必贵其难。真书难于飘扬，草书难于严重，大字难于结密而无间，小字难于宽绰而有余。\",\"hasMore\":false}",
+              "taskId": 658323,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35219282,
+              "createdTime": "2023-08-02T08:14:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3022,\"height\":3681,\"src\":\"https://cc.hjfile.cn/cc/img/20230802/2023080208095694395871.jpg\",\"idx\":0},{\"width\":3024,\"height\":3770,\"src\":\"https://cc.hjfile.cn/cc/img/20230802/202308020809564657943.jpg\",\"idx\":1},{\"width\":3024,\"height\":3958,\"src\":\"https://cc.hjfile.cn/cc/img/20230802/2023080208095782978212.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"有我之境，以我观物，故物我皆着我之色彩。无我之境，以物观物，故不知何者为我，何者为物。\",\"hasMore\":false}",
+              "taskId": 658227,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35203394,
+              "createdTime": "2023-08-01T07:45:50+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":3664,\"src\":\"https://cc.hjfile.cn/cc/img/20230801/2023080107415694833109.jpg\",\"idx\":0},{\"width\":3022,\"height\":3596,\"src\":\"https://cc.hjfile.cn/cc/img/20230801/2023080107415689845169.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230801/2023080107415690726072.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"发现以前嫌弃没用的墨，果然胶重，先将就用完吧。又是不忍直视的一天😂\",\"hasMore\":false}",
+              "taskId": 658226,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 35188127,
+              "createdTime": "2023-07-31T08:21:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":3798,\"src\":\"https://cc.hjfile.cn/cc/img/20230731/2023073108182172759354.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"好久不练，慢慢恢复。“松静慢”\",\"hasMore\":false}",
+              "taskId": 658225,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34993830,
+              "createdTime": "2023-07-21T10:27:17+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230721/202307211026269491917.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230721/2023072110262729980837.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"奇怪，今早突然抖三抖？？？\",\"hasMore\":false}",
+              "taskId": 658150,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34967815,
+              "createdTime": "2023-07-20T08:24:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2150,\"height\":2793,\"src\":\"https://cc.hjfile.cn/cc/img/20230720/2023072008200797193790.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"乏软困颓无力萎靡，进入嗜睡状态后劲可真大。\",\"hasMore\":false}",
+              "taskId": 658149,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34941993,
+              "createdTime": "2023-07-19T08:10:33+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230719/2023071908102225399190.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230719/202307190810238289589.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"循环性的半衰退期，要沉下心来跟自己斗争到底。\",\"hasMore\":false}",
+              "taskId": 658219,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34917649,
+              "createdTime": "2023-07-18T08:14:46+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230718/2023071808051400728280.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230718/2023071808051487731711.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"笔成冢，墨成池，不及羲之即献之；笔秃千管，墨磨万锭，不作张芝作索靖。\",\"hasMore\":false}",
+              "taskId": 658148,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34895106,
+              "createdTime": "2023-07-17T08:17:13+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2261,\"height\":2912,\"src\":\"https://cc.hjfile.cn/cc/img/20230717/2023071708162850573291.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"“最后一根，可以理解😂”\",\"hasMore\":false}",
+              "taskId": 658318,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34877446,
+              "createdTime": "2023-07-16T09:24:26+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3811,\"height\":2468,\"src\":\"https://cc.hjfile.cn/cc/img/20230716/2023071609230734423999.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"“兴致来了，多写几根😂”\",\"hasMore\":false}",
+              "taskId": 658218,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34860548,
+              "createdTime": "2023-07-15T10:50:53+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4003,\"height\":1644,\"src\":\"https://cc.hjfile.cn/cc/img/20230715/2023071510464652938695.jpg\",\"idx\":0},{\"width\":2453,\"height\":3504,\"src\":\"https://cc.hjfile.cn/cc/img/20230715/2023071510464652357807.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"慢慢，慢慢为快，习以为常。\",\"hasMore\":false}",
+              "taskId": 658217,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34839706,
+              "createdTime": "2023-07-14T08:13:16+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2246,\"height\":2572,\"src\":\"https://cc.hjfile.cn/cc/img/20230714/2023071408095517345337.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230714/2023071408101158652591.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"子曰：“德不孤，必有邻。”\",\"hasMore\":false}",
+              "taskId": 658146,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34822134,
+              "createdTime": "2023-07-13T08:16:21+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2877,\"height\":3642,\"src\":\"https://cc.hjfile.cn/cc/img/20230713/2023071308125242475142.jpg\",\"idx\":0},{\"width\":2493,\"height\":3937,\"src\":\"https://cc.hjfile.cn/cc/img/20230713/2023071308125181710622.jpg\",\"idx\":1},{\"width\":4030,\"height\":2356,\"src\":\"https://cc.hjfile.cn/cc/img/20230713/2023071308125271678338.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"要求：文字至少13个字。图\",\"hasMore\":false}",
+              "taskId": 658216,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34804559,
+              "createdTime": "2023-07-12T08:06:36+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4030,\"height\":2189,\"src\":\"https://cc.hjfile.cn/cc/img/20230712/2023071208061625025664.jpg\",\"idx\":0},{\"width\":1767,\"height\":1805,\"src\":\"https://cc.hjfile.cn/cc/img/20230712/2023071208061538963589.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"屋佬今天写的“事”字，脑海浮现了“一勤天下无难事”，手抖除外，后劲太大了。\",\"hasMore\":false}",
+              "taskId": 658215,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34788783,
+              "createdTime": "2023-07-11T08:12:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230711/2023071108101569240347.jpg\",\"idx\":0},{\"width\":1772,\"height\":1328,\"src\":\"https://cc.hjfile.cn/cc/img/20230711/2023071108101553721116.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"横129竖17-加油！！！\",\"hasMore\":false}",
+              "taskId": 658317,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34774397,
+              "createdTime": "2023-07-10T08:00:40+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230710/2023071007593445499175.jpg\",\"idx\":0},{\"width\":2350,\"height\":1762,\"src\":\"https://cc.hjfile.cn/cc/img/20230710/2023071007593293956342.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"横129竖16-怎么今天八点了还没人打卡？😳\",\"hasMore\":false}",
+              "taskId": 658316,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34764195,
+              "createdTime": "2023-07-09T11:25:49+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230709/2023070911250497347957.jpg\",\"idx\":0},{\"width\":2732,\"height\":3888,\"src\":\"https://cc.hjfile.cn/cc/img/20230709/2023070911250553211075.jpg\",\"idx\":1},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230709/2023070911250574380414.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"横128竖15-白露披梧桐，玄蝉昼夜号。\",\"hasMore\":false}",
+              "taskId": 658315,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34751518,
+              "createdTime": "2023-07-08T08:05:05+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2869,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230708/2023070808033170562452.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230708/202307080803315193942.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230708/2023070808033131347018.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":5,\"audioTotalCount\":0,\"text\":\"横127竖14-为什么写竖的时候笔尖铺毫总是分布不匀称，还总往右偏呢？\",\"hasMore\":false}",
+              "taskId": 658214,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34740539,
+              "createdTime": "2023-07-07T09:04:41+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2446,\"height\":3085,\"src\":\"https://cc.hjfile.cn/cc/img/20230707/2023070708570794251270.jpg\",\"idx\":0},{\"width\":2114,\"height\":2703,\"src\":\"https://cc.hjfile.cn/cc/img/20230707/2023070708573956790195.jpg\",\"idx\":0},{\"width\":2574,\"height\":1930,\"src\":\"https://cc.hjfile.cn/cc/img/20230707/2023070708581040399676.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"横126竖13-快半月了，终于出现一条相对满意的竖线😀山不让尘，川不辞盈，故而著其雄瀚，成其奔腾。\",\"hasMore\":false}",
+              "taskId": 658314,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34727921,
+              "createdTime": "2023-07-06T08:14:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1340,\"height\":1667,\"src\":\"https://cc.hjfile.cn/cc/img/20230706/2023070608131402418881.jpg\",\"idx\":0},{\"width\":3024,\"height\":3746,\"src\":\"https://cc.hjfile.cn/cc/img/20230706/2023070608140511556687.jpg\",\"idx\":0},{\"width\":1910,\"height\":823,\"src\":\"https://cc.hjfile.cn/cc/img/20230706/2023070608140332642775.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"横125竖12-顷学尚费驰，后进颓业，衡门之内，清风辍响，良有戎车屡警，礼乐中息。\",\"hasMore\":false}",
+              "taskId": 658213,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34715203,
+              "createdTime": "2023-07-05T07:51:05+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230705/2023070507505908762471.jpg\",\"idx\":0},{\"width\":2562,\"height\":3792,\"src\":\"https://cc.hjfile.cn/cc/img/20230705/2023070507505880097748.jpg\",\"idx\":1},{\"width\":4021,\"height\":2712,\"src\":\"https://cc.hjfile.cn/cc/img/20230705/2023070507505988949743.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"横124竖10-放松不是无力！放松不是无力！放松不是无力！\",\"hasMore\":false}",
+              "taskId": 654595,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34701598,
+              "createdTime": "2023-07-04T08:13:48+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2847,\"height\":3465,\"src\":\"https://cc.hjfile.cn/cc/img/20230704/2023070408132986520746.jpg\",\"idx\":0},{\"width\":2347,\"height\":3561,\"src\":\"https://cc.hjfile.cn/cc/img/20230704/2023070408132988846390.jpg\",\"idx\":1},{\"width\":4030,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230704/2023070408133050828216.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"横123竖10-打卡打卡，开启一天幸福生活\",\"hasMore\":false}",
+              "taskId": 654498,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34692427,
+              "createdTime": "2023-07-03T12:04:24+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":3117,\"src\":\"https://cc.hjfile.cn/cc/img/20230703/2023070312041259357063.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230703/2023070312041293690291.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"横122竖9-昨晚刚试了一下把线条写细，上午就收到了牛牛的提醒，甚巧甚妙。奈何状态太差，感受不明确，只觉得写粗阻力变大，发力反不如细时从容（矫枉过正？？），今晚再继续品品。\",\"hasMore\":false}",
+              "taskId": 654497,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34678829,
+              "createdTime": "2023-07-02T08:51:07+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2869,\"height\":3858,\"src\":\"https://cc.hjfile.cn/cc/img/20230702/2023070208481004540105.jpg\",\"idx\":0},{\"width\":4030,\"height\":2356,\"src\":\"https://cc.hjfile.cn/cc/img/20230702/2023070208480980859133.jpg\",\"idx\":1},{\"width\":2286,\"height\":3755,\"src\":\"https://cc.hjfile.cn/cc/img/20230702/2023070208480980712593.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"横121竖8-看了陈师兄的分享，懂了又好像没懂😂得从关注整根线条到关注笔尖了。\",\"hasMore\":false}",
+              "taskId": 654496,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34669163,
+              "createdTime": "2023-07-01T09:18:53+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230701/2023070109183021935591.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230701/2023070109183007151590.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"横120竖7-初期竖线遇到的问题多数在横线阶段经历过了，可能还做不到，但知道大致方向。竖线更练手感和发力。120天横没白练😂，很值得重视，再来1个月的。\",\"hasMore\":false}",
+              "taskId": 654622,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34658816,
+              "createdTime": "2023-06-30T08:07:24+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230630/2023063008065818947159.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230630/202306300806583931939.jpg\",\"idx\":1},{\"width\":4015,\"height\":2951,\"src\":\"https://cc.hjfile.cn/cc/img/20230630/2023063008065854069097.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"横119竖6-平心静气，不急不躁，方有所获。\\n宜：认真对待每一次练习\\n忌：三天打鱼两天晒网\\n忌：闷头傻练不思考不总结\",\"hasMore\":false}",
+              "taskId": 649235,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34648758,
+              "createdTime": "2023-06-29T08:18:17+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1572,\"height\":725,\"src\":\"https://cc.hjfile.cn/cc/img/20230629/2023062908151613558495.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230629/202306290817009145948.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"横118竖5，练横时认识到了起笔的重要性，练竖时再次感慨，想保持中锋，要先有中锋，起笔没起好就直接重来吧，否则整根线条都完了。练习的目的不是画出一根满意的线条，而是要用正确的方法画出一根好的线条。\",\"hasMore\":false}",
+              "taskId": 649234,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34637633,
+              "createdTime": "2023-06-28T08:13:38+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2106,\"height\":1534,\"src\":\"https://cc.hjfile.cn/cc/img/20230628/2023062808110636691036.jpg\",\"idx\":0},{\"width\":2048,\"height\":1293,\"src\":\"https://cc.hjfile.cn/cc/img/20230628/2023062808122522943506.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"横117竖4-横线竖看、竖线横看，可以发现更多问题。\",\"hasMore\":false}",
+              "taskId": 649351,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34627020,
+              "createdTime": "2023-06-27T08:09:13+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2937,\"height\":2615,\"src\":\"https://cc.hjfile.cn/cc/img/20230627/2023062708063752128372.jpg\",\"idx\":0},{\"width\":3844,\"height\":2330,\"src\":\"https://cc.hjfile.cn/cc/img/20230627/2023062708063933897772.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"竖3横116，苟日新，日日新，又日新。\",\"hasMore\":false}",
+              "taskId": 649414,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34615378,
+              "createdTime": "2023-06-26T07:58:53+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3022,\"height\":3683,\"src\":\"https://cc.hjfile.cn/cc/img/20230626/2023062607565995776578.jpg\",\"idx\":0},{\"width\":4030,\"height\":2197,\"src\":\"https://cc.hjfile.cn/cc/img/20230626/2023062607572441330135.jpg\",\"idx\":1},{\"width\":3024,\"height\":3016,\"src\":\"https://cc.hjfile.cn/cc/img/20230626/202306260757296852232.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"练竖两天，一切从头的心态很要紧。\",\"hasMore\":false}",
+              "taskId": 649233,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34603376,
+              "createdTime": "2023-06-25T07:50:17+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4030,\"height\":1628,\"src\":\"https://cc.hjfile.cn/cc/img/20230625/2023062507495728235030.jpg\",\"idx\":0},{\"width\":2681,\"height\":4030,\"src\":\"https://cc.hjfile.cn/cc/img/20230625/2023062507500198831104.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY114-平心静气，不急不躁，方有所获。\",\"hasMore\":false}",
+              "taskId": 649232,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34598584,
+              "createdTime": "2023-06-24T20:29:31+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3971,\"height\":2953,\"src\":\"https://cc.hjfile.cn/cc/img/20230624/2023062408250861936665.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY113-今天猛开胯，微微屈腿写的，重心往下了，感觉更好控制一点。桌子还是低了几公分呀。\",\"hasMore\":false}",
+              "taskId": 649231,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34568531,
+              "createdTime": "2023-06-22T08:11:32+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230622/2023062208112334672626.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230622/2023062208112329084592.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY112-端午假期，加油练习，好好玩乐。（明天就鸽\",\"hasMore\":false}",
+              "taskId": 649412,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34555476,
+              "createdTime": "2023-06-21T07:50:04+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2349,\"height\":1760,\"src\":\"https://cc.hjfile.cn/cc/img/20230621/202306210749542647100.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY111-平心静气，不急不躁，方有所获。\\n宜：认真对待每一次练习\\n忌：三天打鱼两天晒网\\n忌：闷头傻练不思考不总结\",\"hasMore\":false}",
+              "taskId": 649411,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34549762,
+              "createdTime": "2023-06-20T18:24:04+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230620/2023062006222924438793.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230620/2023062006223470999503.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY110-干啥啥不行，逃班练横第一名。\",\"hasMore\":false}",
+              "taskId": 649410,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34531852,
+              "createdTime": "2023-06-19T09:12:38+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1858,\"height\":1392,\"src\":\"https://cc.hjfile.cn/cc/img/20230619/2023061909115166875200.jpg\",\"idx\":0},{\"width\":1906,\"height\":1428,\"src\":\"https://cc.hjfile.cn/cc/img/20230619/202306190912153705693.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY-109 打卡打卡加油加油\",\"hasMore\":false}",
+              "taskId": 649230,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34520293,
+              "createdTime": "2023-06-18T10:44:19+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230618/2023061810415868562724.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY108-几日不练，退步肉眼可见。希望今天能恢复手感，明儿开始继续卷了。\",\"hasMore\":false}",
+              "taskId": 649409,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34457086,
+              "createdTime": "2023-06-13T08:04:07+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2283,\"height\":1712,\"src\":\"https://cc.hjfile.cn/cc/img/20230613/2023061308032384583346.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230613/2023061308032732387496.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY107-练练练练加油加油\",\"hasMore\":false}",
+              "taskId": 649406,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34445213,
+              "createdTime": "2023-06-12T07:52:45+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230612/2023061207484428868315.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY106-时间不如晚间系列\",\"hasMore\":false}",
+              "taskId": 649229,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34437091,
+              "createdTime": "2023-06-11T11:08:43+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230611/2023061111075611610768.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY-105，再熬夜是狗。\",\"hasMore\":false}",
+              "taskId": 649348,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34432913,
+              "createdTime": "2023-06-10T20:52:07+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2264,\"height\":1698,\"src\":\"https://cc.hjfile.cn/cc/img/20230610/2023061008510050859105.jpg\",\"idx\":0},{\"width\":2093,\"height\":1568,\"src\":\"https://cc.hjfile.cn/cc/img/20230610/20230610085124744961.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY104-中锋应该是中锋，发力还是不太行，这一阵分明感觉放松了啊，问题到底在哪里？😂下盘不稳身体平衡不好？不能吧。不晓得是上面手的问题还是下面腰胯腿的问题。。。\",\"hasMore\":false}",
+              "taskId": 649228,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34420299,
+              "createdTime": "2023-06-09T08:03:54+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230609/2023060908023305611871.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY103-功力不足，尚需大胆铺毫。\",\"hasMore\":false}",
+              "taskId": 649405,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34412520,
+              "createdTime": "2023-06-08T08:19:46+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1323,\"height\":2106,\"src\":\"https://cc.hjfile.cn/cc/img/20230608/2023060808194216080011.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY102-起晚了，今早就写10根\",\"hasMore\":false}",
+              "taskId": 649347,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34403674,
+              "createdTime": "2023-06-07T07:50:20+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4030,\"height\":2262,\"src\":\"https://cc.hjfile.cn/cc/img/20230607/2023060707501217379322.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY101-加油加油加油加油！\",\"hasMore\":false}",
+              "taskId": 649404,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34395422,
+              "createdTime": "2023-06-06T07:52:36+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1467,\"height\":815,\"src\":\"https://cc.hjfile.cn/cc/img/20230606/2023060607522318316617.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY100-百日·但没筑基还在骂骂咧咧版。加练第四个月以来，手也没变稳 线也没变直 间距也没控制好 收笔也不尽人意。对中锋的理解倒是深入了一些，也算没白练，走的是慢点了，但车没开歪，横线最后二十天，不拖了。话说最近又见到许多天赋异禀的同学，你们好厉害。👍🏻\",\"hasMore\":false}",
+              "taskId": 649346,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34386637,
+              "createdTime": "2023-06-05T08:04:39+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230605/202306050804285286328.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY99-久久为功为功为功。\",\"hasMore\":false}",
+              "taskId": 649345,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34383338,
+              "createdTime": "2023-06-04T20:58:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3703,\"height\":2608,\"src\":\"https://cc.hjfile.cn/cc/img/20230604/2023060408573125664300.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY98-出去鬼混三天，回来手抖成狗\",\"hasMore\":false}",
+              "taskId": 649344,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34362439,
+              "createdTime": "2023-06-02T08:10:38+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2236,\"height\":1676,\"src\":\"https://cc.hjfile.cn/cc/img/20230602/2023060208091754443089.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY97-快乐吃席去，怠惰几日罢。\",\"hasMore\":false}",
+              "taskId": 649403,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34353684,
+              "createdTime": "2023-06-01T08:15:23+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230601/202306010810013045972.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY96-6月了，真快，不是水字。\",\"hasMore\":false}",
+              "taskId": 649342,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34344721,
+              "createdTime": "2023-05-31T09:25:55+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230531/2023053109254919123633.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY94-标错日期了，九十四天。\",\"hasMore\":false}",
+              "taskId": 641874,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34335253,
+              "createdTime": "2023-05-30T08:09:34+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2150,\"height\":1612,\"src\":\"https://cc.hjfile.cn/cc/img/20230530/202305300809094756817.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY94-慢慢慢 松松松\",\"hasMore\":false}",
+              "taskId": 641873,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34331866,
+              "createdTime": "2023-05-29T21:37:26+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1810,\"height\":1356,\"src\":\"https://cc.hjfile.cn/cc/img/20230529/2023052909371473881963.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY93-横线再练个把月吧，向百廿进击。上面是早晨练的，下面是晚上，晚上手腕有意识放松了一下，倒也奇怪，腕松了肩便紧了。\",\"hasMore\":false}",
+              "taskId": 641872,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34316346,
+              "createdTime": "2023-05-28T11:52:56+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1706,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230528/2023052811521158113507.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230528/2023052811521245169595.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY92-开始练竖，横线功力尚不足，但真的需要一点新鲜感来刺激。。。\\n发力与横大不同，难！先练两点，起笔与提按。（使用中锋+别用死劲）\",\"hasMore\":false}",
+              "taskId": 641792,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34309570,
+              "createdTime": "2023-05-27T18:03:01+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3926,\"height\":2944,\"src\":\"https://cc.hjfile.cn/cc/img/20230527/2023052705585080175816.jpg\",\"idx\":0},{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230527/2023052705585223438195.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY91-重新打个卡，把下午写的补上。\\n1.起笔变好了一点，行笔收笔还是不行，难受！\\n2.左旧纸右新纸，不洇墨了，好用！\\n3.笔也是新的，述古二，好用！\\n4.第四个月了，不知道还要练多久😅\",\"hasMore\":false}",
+              "taskId": 641871,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34295212,
+              "createdTime": "2023-05-26T08:05:01+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230526/2023052608045479595948.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY90-宇智波鼬锤佐助😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😂😂😂😂😂😂😅😅😅😅😅😅😅\",\"hasMore\":false}",
+              "taskId": 641791,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34284383,
+              "createdTime": "2023-05-25T08:05:04+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230525/2023052508040165069061.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY89-难顶啊，我的精神病真的要一触即发了\",\"hasMore\":false}",
+              "taskId": 641790,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34273323,
+              "createdTime": "2023-05-24T08:04:51+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2380,\"height\":1326,\"src\":\"https://cc.hjfile.cn/cc/img/20230524/2023052408044739430992.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY88-短暂地在右臂感受到一股暖流，述古兄又回来了。\",\"hasMore\":false}",
+              "taskId": 641870,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34263421,
+              "createdTime": "2023-05-23T07:25:02+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230523/2023052307211330275818.jpg\",\"idx\":0},{\"width\":2839,\"height\":3785,\"src\":\"https://cc.hjfile.cn/cc/img/20230523/2023052307210814878991.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY87-转身太难，接笔不自然。今早晨练偶遇极好看的月季，即将收获花团锦簇的一天。😎\",\"hasMore\":false}",
+              "taskId": 641869,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34258133,
+              "createdTime": "2023-05-22T19:22:55+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":959,\"src\":\"https://cc.hjfile.cn/cc/img/20230522/202305220722487224154.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY86-昨天没练，今天浑身无力，以为会没法看，谁知道因为没劲反而放松了🤣（其实是紧不起来了）\",\"hasMore\":false}",
+              "taskId": 641789,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34236082,
+              "createdTime": "2023-05-20T08:07:30+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1733,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230520/2023052008072269459250.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY85-自从纠正执笔后，无名指就成了装饰品。也不知道该重点练什么了，就一天天坚持着重复😂，算是练手的稳定性？反正横线也没有太多技法。\",\"hasMore\":false}",
+              "taskId": 641788,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34226925,
+              "createdTime": "2023-05-19T07:43:36+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230519/2023051907414643920038.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY84-今早看到了旭日东升破云而出，顿扫心中阴霾之气。回来练线条时都有劲了。\",\"hasMore\":false}",
+              "taskId": 641867,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34217377,
+              "createdTime": "2023-05-18T07:52:04+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":959,\"src\":\"https://cc.hjfile.cn/cc/img/20230518/202305180747203984474.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY83-挺嗨挺好挺有趣\",\"hasMore\":false}",
+              "taskId": 641866,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34207201,
+              "createdTime": "2023-05-17T07:57:40+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":959,\"src\":\"https://cc.hjfile.cn/cc/img/20230517/2023051707571304782304.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230517/202305170757253759199.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230517/2023051707572545146660.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY82-昨天请教了劳斯，得到了一些解答，分享内容给新来的纯萌新同学，不是什么心得，避坑而已，应该也不会有人出现这种离谱的问题吧？\\n虽说执笔无定法，但是中指离食指别太远，否则手腕是不能放松的。我产生这种错误情况的原因大致有二：一是从拿笔那一刻起就没注意到这个问题，自然而然这样握了，好像小时候老师就是这样教的一般（印象中确实是这样）；二是桌子稍有点低，为了让手腕平一点别折起来，会向上执笔，手在笔的\",\"hasMore\":true}",
+              "taskId": 641953,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34197977,
+              "createdTime": "2023-05-16T08:08:46+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230516/2023051608083865555894.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY81-夜跑完了练功，练功完了睡觉，睡醒了继续练功，练完功练字，练字结束上班。对不起我的波棱盖。\",\"hasMore\":false}",
+              "taskId": 641865,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34187743,
+              "createdTime": "2023-05-15T07:11:31+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230515/2023051507095132228172.jpg\",\"idx\":0},{\"width\":1280,\"height\":907,\"src\":\"https://cc.hjfile.cn/cc/img/20230515/2023051507095131380711.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY80-昨晚与今早，成功捕获一只洪水猛兽。80天了，横线再练一个月，欠下的迟早要还。\",\"hasMore\":false}",
+              "taskId": 641864,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34178652,
+              "createdTime": "2023-05-14T08:42:38+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":959,\"src\":\"https://cc.hjfile.cn/cc/img/20230514/2023051408395715627381.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY79-没什么想法，但渐入佳境，比昨天好，写细了一点。今天是个特别的日子，被爱的同时也别忘记爱她，朋友们何妨抽空给老母亲问声安。也祝群里的妈妈们节日快乐，希望你们永远年轻，永远热泪盈眶。\",\"hasMore\":false}",
+              "taskId": 641952,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34171795,
+              "createdTime": "2023-05-13T16:13:21+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230513/2023051304084591371166.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY78-今天状态不太好同。好像都是些老问题，很长时间了，留在那但还没能力处理。倒也不急，日拱一卒慢慢练吧。😂不晓得算是看开还是正儿八经摆烂。\",\"hasMore\":false}",
+              "taskId": 641863,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34158492,
+              "createdTime": "2023-05-12T07:57:12+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230512/2023051207570670511077.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY77-不徐不疾。从容点好，走的长远。话说同学们最近真的卷啊，推着人向前。但真正的卷王，从来不止一个身份。\",\"hasMore\":false}",
+              "taskId": 641862,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34146935,
+              "createdTime": "2023-05-11T07:52:03+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":959,\"src\":\"https://cc.hjfile.cn/cc/img/20230511/2023051107505563253992.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY76-恢复晨练，然后苦哈哈去上班。OS：笑笑笑笑笑什么笑别给我嘻嘻哈哈！！\",\"hasMore\":false}",
+              "taskId": 641951,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34140605,
+              "createdTime": "2023-05-10T19:31:47+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1844,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230510/2023051007281082271637.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY75-耶！是自己相对满意的一天。偏美中不足今方信呀，我写得挺快乐，墨泅的也挺带劲，随它去。\",\"hasMore\":false}",
+              "taskId": 641861,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34129768,
+              "createdTime": "2023-05-09T20:13:08+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1780,\"src\":\"https://cc.hjfile.cn/cc/img/20230509/20230509081259833318.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY74-王氏老方，学习失败😟\",\"hasMore\":false}",
+              "taskId": 641787,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34115044,
+              "createdTime": "2023-05-08T11:09:55+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230508/2023050811084507224958.jpg\",\"idx\":0},{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230508/2023050811084473449548.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY73-试水失败，写的稀碎，今晚有时间就卷完昨天和今天剩下纸。\",\"hasMore\":false}",
+              "taskId": 641786,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34104463,
+              "createdTime": "2023-05-07T08:21:24+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230507/2023050708212010417387.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY72-双手离桌再体验，难难难。\",\"hasMore\":false}",
+              "taskId": 641860,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34095780,
+              "createdTime": "2023-05-06T09:00:16+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230506/2023050608523697829262.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY71-1.昨天没练，果然偷懒一时爽，一直偷懒一直爽，别学我，让我一个人爽；\\n2.好久没清晨写了，今天周六再尝试一下，真香；\\n3.身体别前倾太厉害对写直很有用，给右臂留出足够的空间活动；\\n4.中锋不用急慢慢写就行，盘它！\",\"hasMore\":false}",
+              "taskId": 641859,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34081757,
+              "createdTime": "2023-05-04T20:19:02+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230504/2023050408175892142079.jpg\",\"idx\":0},{\"width\":1170,\"height\":2532,\"src\":\"https://cc.hjfile.cn/cc/img/20230504/2023050408175663855416.jpg\",\"idx\":1},{\"width\":1170,\"height\":2532,\"src\":\"https://cc.hjfile.cn/cc/img/20230504/2023050408175672588775.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY70-线条写的不咋好，想法却有不老少。\",\"hasMore\":false}",
+              "taskId": 641785,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34074780,
+              "createdTime": "2023-05-03T22:20:17+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230503/2023050310114261532238.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY69-被谢师兄催了，匆匆写写，点名批评！！\\n2.冷静了，有点进步时也会冷静，没以前那种狂热的喜悦了，不知为何，不知好坏。\\n1.感悟明天再说吧，太长，来不及了。写横的时候想到了飞鸟，延展了一系列想法，不没静，但有收获，很具象的一些想法。\\n0.今天熬的有点晚了，朋友们早睡晚安。\",\"hasMore\":false}",
+              "taskId": 636819,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34064776,
+              "createdTime": "2023-05-02T19:27:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230502/2023050207270250487601.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY68-此时情绪此时天，无事小神仙！！\",\"hasMore\":false}",
+              "taskId": 636662,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34059214,
+              "createdTime": "2023-05-01T21:44:08+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230501/2023050109440502590576.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY67-下半场极致的松懈，松到脑子好像都不运行了，眼睛也聚不了焦，也不晓得从哪发的力，只有手，指尖稍微在感受纸的反馈，五感闭了四感…要么是找到放松状态了，要么是困了。\",\"hasMore\":false}",
+              "taskId": 635384,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34049526,
+              "createdTime": "2023-04-30T10:26:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2894,\"height\":3859,\"src\":\"https://cc.hjfile.cn/cc/img/20230430/2023043010232506760251.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY66-松慢易得，唯静难守。刚好从五一开始停俩月硬笔，进行精准打击。对不起了老朋友☝🏻\",\"hasMore\":false}",
+              "taskId": 635296,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34042228,
+              "createdTime": "2023-04-29T07:37:02+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230429/2023042907365512034122.jpg\",\"idx\":0},{\"width\":1280,\"height\":1993,\"src\":\"https://cc.hjfile.cn/cc/img/20230429/2023042907365513953797.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY65-1.基本能够保持中锋；\\n2.可以慢下来；\\n3.单根线条不行，先抖再歪且不匀称；\\n4.昨天看到有大佬重新返回画横线，感觉在多数人急着向上走时，能够选择让自已真正下沉的人，很厉害。\\n5.起笔洇墨对行笔的心理影响变小了。\",\"hasMore\":false}",
+              "taskId": 635383,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34035055,
+              "createdTime": "2023-04-28T08:10:48+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1706,\"src\":\"https://cc.hjfile.cn/cc/img/20230428/2023042808050652315084.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230428/202304280805065339470.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY64-今天写的时候心态很稳。每天太充实了，感觉一天24个小时根本不够用呀，在从容不迫的忙碌找到的乐趣，才更让人舒适欢喜欢喜欢喜欢喜欢喜。\",\"hasMore\":false}",
+              "taskId": 635295,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34026195,
+              "createdTime": "2023-04-27T08:14:52+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230427/2023042708133077559371.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230427/2023042708133083470563.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY63-从容不迫+坚持不懈！今天是划线条把纸划开的一天🫣\",\"hasMore\":false}",
+              "taskId": 635294,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34016350,
+              "createdTime": "2023-04-26T08:12:58+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230426/2023042608104879151542.jpg\",\"idx\":0},{\"width\":1217,\"height\":1722,\"src\":\"https://cc.hjfile.cn/cc/img/20230426/202304260810487911325.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230426/2023042608104877583290.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY62-认真从容的对待每一根正在书写的线条，哪怕它因何不尽人意。\",\"hasMore\":false}",
+              "taskId": 635293,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 34007016,
+              "createdTime": "2023-04-25T08:14:50+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230425/2023042508073487451084.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230425/2023042508073473069356.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY61-今早看到秋杏同学说写完很累，想了想自己好久没这种感觉啦，一直在放松，反而怠惰了，真正的松不是精神飘忽，有时候是不是也得让自己纠结一点（东南隅要练就的匠心光芒哈哈哈哈哈哈），比如这个月的抠细节。文武之道，贵乎一张一驰。\",\"hasMore\":false}",
+              "taskId": 635292,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33996236,
+              "createdTime": "2023-04-24T07:25:11+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230424/2023042407250481631379.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230424/2023042407250492275223.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY60-在第二个月结束，给跟我一样的小萌新大冤种的小建议：一定要尽早看完篆书课程所有视频，所有！！\\n惭愧啊，俩月了，昨天才刷完一遍。之前看完峄山碑就没继续了，昨天看完所有，大受震撼，尤其是笔势部分，虽然是高阶知识现在用不到，但是会让你想明白一些困惑的问题，让你明白现在你做这些是为了什么，这才是真正能让人放松，让人静下心来练线条的法宝之一。\\n当然也可能悟到一些切实可用的，比如我晓得了老师收笔为什\",\"hasMore\":true}",
+              "taskId": 635460,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33985662,
+              "createdTime": "2023-04-23T08:00:19+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230423/2023042307521441954023.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230423/2023042307521443267348.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY59-沾染不好的习气改起来太难了😭几乎要从头再来一遍，硬笔已经重新开始了……以此观之软笔更要把基础打稳呀，否则就是南辕北辙的道理，横线马上要奔向第三个月了，奥利给！！\",\"hasMore\":false}",
+              "taskId": 635291,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33975141,
+              "createdTime": "2023-04-22T07:38:42+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230422/2023042207321824490309.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230422/2023042207321823419894.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY58-起笔的提是顺势行为，不要刻意。打一拳，蓄力不是目的是手段。蓄力过猛反而出拳没劲。\\n软笔按部就班继续训练，硬笔墨迹版一年后再见👋黑色56789月要来了呀。\",\"hasMore\":false}",
+              "taskId": 635459,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33965341,
+              "createdTime": "2023-04-21T08:09:39+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230421/2023042108080938147597.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230421/2023042108081506727009.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY57-你随便洇，我根本不在乎😎😎😎\",\"hasMore\":false}",
+              "taskId": 635290,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33954105,
+              "createdTime": "2023-04-20T07:33:19+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230420/2023042007330044278283.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230420/2023042007330043425814.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY56-一事有恒，万事渐振，加油！！\",\"hasMore\":false}",
+              "taskId": 635289,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33943347,
+              "createdTime": "2023-04-19T08:24:23+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230419/2023041908114991382112.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230419/2023041908115014643827.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230419/2023041908114988171987.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY55-久久不能平静，但不嗔不燥，通透感极强的一大早。\",\"hasMore\":false}",
+              "taskId": 635382,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33932879,
+              "createdTime": "2023-04-18T08:09:40+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1396,\"height\":1861,\"src\":\"https://cc.hjfile.cn/cc/img/20230418/2023041808082966857788.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY54-写完后想到了无力又大胆的解释：为啥起笔总洇墨，并且只洇前2cm后面没影响？大概是因为1.确实墨多了 2.手指按纸按的久了😂了（写前一根会用手指压住后一根的起笔位置）硬笔写完忘记拍了，明儿补上。\",\"hasMore\":false}",
+              "taskId": 635458,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33922348,
+              "createdTime": "2023-04-17T07:55:03+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230417/2023041707493820846135.jpg\",\"idx\":0},{\"width\":1280,\"height\":2013,\"src\":\"https://cc.hjfile.cn/cc/img/20230417/2023041707493814988678.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY53-怎么说呢，慢是慢了，但总感觉有点太慢了，写一两根还行，通篇这么划拉会不会影响节奏啊。稳中求慢还是自然连贯，新问题来了。明天试试再自然点，还是得实践出结果，不断试错，不断排除，多是一件美逝。🥹\",\"hasMore\":false}",
+              "taskId": 635288,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33911972,
+              "createdTime": "2023-04-16T08:04:33+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230416/2023041608035163129864.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230416/2023041608035161187308.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY52-小小纸张不讲武德，中间搞偷袭。昨天老师指导每条慢点写，要2分钟以上，没好意思说自己2分钟根本写不完，让人老脸一红😂\\n快俩月了，过两天开始抓细节，实在不行再适当减减量吧，稳点好。\",\"hasMore\":false}",
+              "taskId": 635457,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33903298,
+              "createdTime": "2023-04-15T12:02:27+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230415/2023041512015261054050.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230415/2023041512015260479336.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY51-今天练习时格外的放松，不刻意、不纠结，没有很大力，只关注笔墨，这种状态很舒服，也很满意。\",\"hasMore\":false}",
+              "taskId": 635287,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33890773,
+              "createdTime": "2023-04-14T08:25:05+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1228,\"height\":1638,\"src\":\"https://cc.hjfile.cn/cc/img/20230414/2023041408154739415110.jpg\",\"idx\":0},{\"width\":1338,\"height\":1943,\"src\":\"https://cc.hjfile.cn/cc/img/20230414/2023041408154732683757.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230414/2023041408154735056840.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY50-昨晚VS今早，写横线时的心情跃然纸上，反差很大，大抵能猜到哪个是心态狂躁的时候吧😎感觉慢松静中，静最难得。想要静，多睡觉💤\",\"hasMore\":false}",
+              "taskId": 635286,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33878387,
+              "createdTime": "2023-04-13T07:49:42+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1706,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230413/2023041307485458475475.jpg\",\"idx\":0},{\"width\":2015,\"height\":1313,\"src\":\"https://cc.hjfile.cn/cc/img/20230413/2023041307485463175211.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY49-终于……手感觉到比前一日的中锋运用的更好。不得不再次感慨，起笔太太太重要了。\\n以前偷懒，起笔笔杆是斜的没垂直，起完再掰直，导致行笔没力度且笔根会有点绞，写着写着就偏锋。\\n总之，心要沉住气，线要起笔稳，明天开始新课题：观察前细后粗的问题。\",\"hasMore\":false}",
+              "taskId": 635381,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33865508,
+              "createdTime": "2023-04-12T08:11:12+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230412/2023041208044304020961.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230412/20230412080443086730.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY48-习惯才是最大的进步。无事每天练，大有益意。\",\"hasMore\":false}",
+              "taskId": 635380,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33850461,
+              "createdTime": "2023-04-11T07:50:31+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230411/2023041107470697883267.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230411/2023041107470703046890.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY47-突然发现三个月行程已经过半了呀，真快😴头一低就写歪，要继续矫正姿势。\",\"hasMore\":false}",
+              "taskId": 635379,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33838289,
+              "createdTime": "2023-04-10T08:13:23+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230410/2023041008074015695916.jpg\",\"idx\":0},{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230410/2023041008074011175876.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY46-没有白走的路，每一步都算数。\",\"hasMore\":false}",
+              "taskId": 635456,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33825931,
+              "createdTime": "2023-04-09T08:22:38+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230409/2023040908223306173464.jpg\",\"idx\":0},{\"width\":3832,\"height\":663,\"src\":\"https://cc.hjfile.cn/cc/img/20230409/2023040908223301671552.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230409/2023040908223304318837.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY45-前一阵看到师兄师姐闹洇墨，终于也中招了，建议不要让墨隔夜，用多少倒多少就好，不要用隔夜墨兑水，更不要当天墨隔夜墨和水搅一起（总之我昨天是因为这个原因出现线条起笔洇墨，行笔一会又正常的情况，再就是我可能润笔时水没吸干净）\",\"hasMore\":false}",
+              "taskId": 635378,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33815085,
+              "createdTime": "2023-04-08T08:28:40+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230408/2023040808242803160812.jpg\",\"idx\":0},{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230408/2023040808242805189401.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY44-细节还是没法看👀，1是手仍然抖，2是提按控制差很多，说到底手跟不上脑子了。（至少证明有脑子不是😂\",\"hasMore\":false}",
+              "taskId": 635285,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33805855,
+              "createdTime": "2023-04-07T11:41:23+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230407/2023040711391245371635.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230407/2023040711391242975379.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY43-想停想提按，但停不大明白😩明天继续感受。感谢星佬昨天的分享。\",\"hasMore\":false}",
+              "taskId": 635455,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33790838,
+              "createdTime": "2023-04-06T08:06:56+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230406/2023040608043804775993.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230406/2023040608043806016283.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY42-线条太长把握不住，实在是写不完整张纸了，精疲力竭，小小横线有时候也挺耗心神的。\",\"hasMore\":false}",
+              "taskId": 629514,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33781295,
+              "createdTime": "2023-04-05T12:06:51+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230405/2023040511591119566595.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230405/2023040511591341660309.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY40-起、行、收，各有各的难点，是时候分体系找问题去解决了。一站俩小时，确实要人老命，但今天总感觉自己练的时候莫名很自嗨，嗨到有时静不下心的那种……正常吗？（内心已经开始自己蹦迪了，满脑子都是朝仓行宣😂）\",\"hasMore\":false}",
+              "taskId": 629453,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33769044,
+              "createdTime": "2023-04-04T07:56:46+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230404/2023040407562776573454.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230404/2023040407562777927166.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY40-是不是手臂最好打开，手肘最好稍稍提起呀？总感觉前者可以行气到手上，后者可以让大臂发力。\",\"hasMore\":false}",
+              "taskId": 629452,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33757398,
+              "createdTime": "2023-04-03T07:25:31+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230403/2023040307251342523434.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230403/2023040307251349259773.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY39-感觉起笔的“提”是用来卸力的。起笔逆锋按下去后笔尖会给一个向上的反作用力，这个力处理不好笔尖就会弹出去，这应该也是自己刚开始练笔尖总是向上向下歪一下的原因。顺着这个力的方向，向上提一下，可以把这个力给化去，再顺势下压铺毫就会铺开。这个提是自然而然地卸力，是顺势而为并非刻意，是果而非因。\\n传统功夫是讲究化劲的，四两拨千斤，传统书法也是，原来马老师早就看透了一切。\",\"hasMore\":false}",
+              "taskId": 629451,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33751703,
+              "createdTime": "2023-04-02T19:38:18+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230402/2023040207340480796021.jpg\",\"idx\":0},{\"width\":1784,\"height\":1338,\"src\":\"https://cc.hjfile.cn/cc/img/20230402/2023040207340485367180.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY28-昨天直播牛牛说要写慢，数量不必太多，重要的是质量，很有道理！！就是说嘛，怎么可能是周日怠惰，分明是听老师的话🤔🤔今天感觉不错，线条应该比以前好一些了吧#\",\"hasMore\":false}",
+              "taskId": 629450,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33734066,
+              "createdTime": "2023-04-01T07:37:35+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230401/2023040107355937639695.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230401/2023040107360053521476.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY37-写的很急躁，写到一半直接偷懒把间距放大，线条也不好，但就不跟自己较真了，毕竟是周六着急写完出去玩🤤，今日开摆，快乐无罪！！\",\"hasMore\":false}",
+              "taskId": 629373,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33723625,
+              "createdTime": "2023-03-31T07:52:16+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230331/2023033107412260324132.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230331/2023033107412162113247.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY36-起收还得继续练啊，尤其收笔时，笔尖充分发挥主观能动性，就是不听手指挥，要么上大要么下大要么出尖，妙啊，但下次不必这么变化丰富的🤨硬笔遇到了几个想写（实则好写）的字，就很舒服。\",\"hasMore\":false}",
+              "taskId": 629449,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33712210,
+              "createdTime": "2023-03-30T08:11:54+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230330/2023033008052995324012.jpg\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY35-今天的线条质量比昨天稍好了一点，下一课题《线条之前的布白均匀》。\\n感觉自己起笔真的像马老师的接化发，逆锋按（接）-提（化）-再按走（发）一气呵成，嗷，很快啊！线就开始歪了😂\",\"hasMore\":false}",
+              "taskId": 629372,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33700541,
+              "createdTime": "2023-03-29T07:35:21+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":2569,\"height\":3425,\"src\":\"https://cc.hjfile.cn/cc/img/20230329/2023032907310772737009.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230329/2023032907310776596741.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY34-手感进入恢复期，第二个月果然能发现的问题比第一个月变多。第一个月练，第二个月要练中带想了。\",\"hasMore\":false}",
+              "taskId": 629448,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33688904,
+              "createdTime": "2023-03-28T09:41:09+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230328/202303280937341559481.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230328/2023032809373399693877.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230328/2023032809373197480771.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY33-来来回回反反复复嘻嘻哈哈。昨晚练了会起收笔，效果甚微。\\n病情不太稳定，建议加大剂量。\",\"hasMore\":false}",
+              "taskId": 629447,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33676255,
+              "createdTime": "2023-03-27T08:11:58+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230327/2023032708100804214319.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230327/2023032708100869365532.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230327/2023032708100711516936.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY32-起收笔太差劲，明天不练线条了，搞专项练习。😮‍💨\",\"hasMore\":false}",
+              "taskId": 629513,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33671743,
+              "createdTime": "2023-03-26T21:07:56+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1170,\"height\":2532,\"src\":\"https://cc.hjfile.cn/cc/img/20230326/2023032609065491578593.png\",\"idx\":0}],\"audios\":[],\"imageTotalCount\":1,\"audioTotalCount\":0,\"text\":\"DAY5 补上补上 每次都缺一天强迫症很难受…\",\"hasMore\":false}",
+              "taskId": 619718,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33665718,
+              "createdTime": "2023-03-26T11:47:21+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230326/2023032611461980568520.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230326/2023032611462241431778.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY31-开启第二个月。日退一步，早晚返璞归真😂\",\"hasMore\":false}",
+              "taskId": 629446,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33653356,
+              "createdTime": "2023-03-25T12:15:50+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230325/2023032512104011367469.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230325/2023032512103748660534.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY30-正式一个月了。\\n昨天：明天会更好😎😎\\n今天：大家不要信，昨天乱讲的🤪🤪\\n上午跑了个半马，硬笔把昨天欠的那半页写完后实在没有力气写新一页了，下午看状态要不要补上今天的，又是一个酣畅淋漓的周六！！\",\"hasMore\":false}",
+              "taskId": 629371,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33636082,
+              "createdTime": "2023-03-24T08:05:55+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230324/2023032408053517625508.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230324/202303240805358813570.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY29-没有很好，但比昨天好，明天会更好。🤤🤤\",\"hasMore\":false}",
+              "taskId": 629370,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33618954,
+              "createdTime": "2023-03-23T08:23:04+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230323/2023032308134166782205.jpg\",\"idx\":0},{\"width\":2690,\"height\":3473,\"src\":\"https://cc.hjfile.cn/cc/img/20230323/2023032308134124781542.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230323/2023032308134267954016.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":5,\"audioTotalCount\":0,\"text\":\"DAY28-如何知道自己练的钱问题有多大？间距缩小，计白当黑。我看到之前老师给一个闯关同学的建议是线条写的密一点，试了一下果然间距大会隐藏一些问题，而间距越小，问题显现的越明显。你要看自己写的怎么样，就不能只看写的线条，还要看间距形成的第二个“线条”，恍然大悟，嘿，这不就是计白当黑嘛！最后写燥了，匆匆了事。基础不稳，地动山摇，明天开始速度减慢，只写一张，慢慢品。\\r\\n\",\"hasMore\":false}",
+              "taskId": 629369,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33602671,
+              "createdTime": "2023-03-22T07:35:15+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230322/2023032207345835779752.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230322/2023032207345936051490.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230322/2023032207345895289035.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"DAY27-收笔总是歪就很离谱，尝试了很多角度还是不行，又很难接受收笔的时候笔尖描一下，大佬们有什么秘诀吗？哈哈哈哈美好的一天要从自己的骂骂咧咧中开始了！！快要一个月了，线条还是很不稳。啥时候手才能不抖？🤪\",\"hasMore\":false}",
+              "taskId": 629445,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33570354,
+              "createdTime": "2023-03-20T08:10:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230320/2023032008052581760250.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230320/2023032008052680558023.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230320/2023032008052669652646.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY26-前几天学到了一些东西，今天开始就原地踏步了，这是要我好好消化一下？不过硬笔好似堪堪有所进益，多想互通有无，慢慢练吧。发现练拉线条以来难以避免的魔咒：最后两条必写歪。\",\"hasMore\":false}",
+              "taskId": 621947,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33557912,
+              "createdTime": "2023-03-19T12:34:02+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230319/2023031912333675559694.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230319/20230319123336375993.jpg\",\"idx\":1},{\"width\":1575,\"height\":2100,\"src\":\"https://cc.hjfile.cn/cc/img/20230319/2023031912332742016700.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"DAY25-昨晚又看了一遍老师的视频，有点感悟就起来写了一张（图一），标出了三根有问题的线，今天上午写的虽然整体看起来不如昨晚的，但我个人感觉其实是比昨晚好一点的，最后给问题来个特写，产生的根本原因是起笔，有时候会产生一种“伪中锋”的用笔，看起来笔尖在中间，但笔根因为起笔略有绞转，其实是偏的，写着写着就会出现一小段接近偏锋的状态。\",\"hasMore\":false}",
+              "taskId": 622015,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33539624,
+              "createdTime": "2023-03-18T07:58:22+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230318/2023031807563920485596.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230318/2023031807563926549005.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230318/2023031807562286220369.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY-果然还是很难忍受原先的墨，老老实实在那吃灰吧，什么浪费不浪费的😂又是个好周六。\",\"hasMore\":false}",
+              "taskId": 622128,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33523849,
+              "createdTime": "2023-03-17T08:05:52+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230317/2023031708054010160934.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230317/202303170805401257507.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230317/2023031708054038699668.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY23-二十多天了才发现，在影响一根线条好坏的因素中，起笔的质量要占50%以上，所以一定要仔细慢慢写。同时铺毫状态还会影响到收笔质量，起势之道，不可不察啊。\",\"hasMore\":false}",
+              "taskId": 622014,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33501377,
+              "createdTime": "2023-03-15T21:32:16+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":4032,\"height\":3024,\"src\":\"https://cc.hjfile.cn/cc/img/20230315/2023031509294073055784.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230315/2023031509293951750081.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230315/2023031509293900081653.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY22-昨天太困写完10根直接睡了没打卡可还行？😂今晚想了想以前买的墨虽然胶重了极难用，但总不能浪费了，趁现在水平不够，先把辣鸡墨用完吧，果然不出所料，这纸皱的呀。反正给各位踩个雷，非必要别用六品堂的墨…唉，硬笔最近也遇到瓶颈了，止步不前若干天，甚至有隐隐倒退之势，也挺愁人的😮‍💨灵飞经乱我道心啊。\",\"hasMore\":false}",
+              "taskId": 621946,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33466556,
+              "createdTime": "2023-03-13T21:53:32+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230313/2023031309520918975490.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230313/2023031309520571417158.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230313/2023031309520637916756.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"DAY21-写着写着就歪了😂收笔好难，总是会有个尖尖\",\"hasMore\":false}",
+              "taskId": 622126,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33446858,
+              "createdTime": "2023-03-12T19:02:32+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230312/2023031207020504620075.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230312/2023031207020342279022.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230312/2023031207020396440129.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"DAY20-昨天直播老师说我之前写的太细了，线条不易惯力，今天开始尝试写粗一点，还不是很习惯，比较难把握线与线的粗细一致，但是写起来确实会感觉更有力了。\\n还有就是提醒大家，笔不用吃墨太饱，镇纸也不用太重，更别相信大力出奇迹，否则，如你所见，自己和纸都尴尬🫢🥹\",\"hasMore\":false}",
+              "taskId": 621945,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33428177,
+              "createdTime": "2023-03-11T13:16:58+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230311/202303110114287656740.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230311/2023031101143206426559.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230311/2023031101143202323996.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY19-感觉手开始抖的变慢了，真是个好苗头。下一步开始尝试解决起笔收笔的问题了🥹周六三件事，练字加班吃酒。\",\"hasMore\":false}",
+              "taskId": 621944,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33418346,
+              "createdTime": "2023-03-10T21:11:37+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230310/202303100911211665188.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230310/2023031009112083381331.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230310/2023031009112110685252.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":5,\"audioTotalCount\":0,\"text\":\"DAY18-学生突然发热送去就医…练完毛笔硬笔匆匆写了一半，昨儿也是，刚画一根线条就…😂溜了溜了，明天补上。\",\"hasMore\":false}",
+              "taskId": 621943,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33390357,
+              "createdTime": "2023-03-08T22:03:58+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230308/2023030810010491189308.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230308/202303081001027977502.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230308/2023030810010571522861.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":5,\"audioTotalCount\":0,\"text\":\"DAY17-今天还是不好，但在越来越好。\\n发现练字的时候需要一个安静的环境，对，就是纯音乐都不能放的那种，这样集中精力线条真的会变直，明天开始戒一段时间练字听书的习惯🧐\",\"hasMore\":false}",
+              "taskId": 622125,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33373641,
+              "createdTime": "2023-03-07T20:08:26+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230307/2023030708072038849949.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230307/2023030708072197656550.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230307/202303070807239959896.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY16-今儿一塌糊涂，罢了罢了，明儿再找新感觉喽。\",\"hasMore\":false}",
+              "taskId": 622012,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33345228,
+              "createdTime": "2023-03-05T20:42:33+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230305/2023030508412582459124.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230305/2023030508412764882565.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230305/2023030508412136586110.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"DAY14-磨刀不误砍柴工，周日浪完再练功。🫡\",\"hasMore\":false}",
+              "taskId": 622124,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33324393,
+              "createdTime": "2023-03-04T13:56:36+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230304/2023030401555477956140.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230304/2023030401555606787069.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230304/2023030401555764379716.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":5,\"audioTotalCount\":0,\"text\":\"得DAY13-今天就写到这吧，天气太好了，得出去耍耍🤤美好的周六有了。\",\"hasMore\":false}",
+              "taskId": 621940,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33313396,
+              "createdTime": "2023-03-03T20:10:14+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230303/2023030308021557034071.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230303/2023030308021575624459.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230303/2023030308021239943413.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY12-行笔的摩擦力偶尔可以感受到了，提按依旧很难掌控，线条拉到后面会斜且变粗，可能是肩膀没打开的原因？明天上午打开写试试。今天晚上没事就很开心了，一会去肝硬笔打发时间了🥹\",\"hasMore\":false}",
+              "taskId": 621939,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33299026,
+              "createdTime": "2023-03-02T20:49:50+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230302/2023030208492998715879.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230302/2023030208493488536335.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230302/2023030208493391035658.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY11-今天的收获是，虽然线条进步很小，仍然不直无力，但线与线之间比以前好很多了，大致的方向也稍有改进，没那么斜了。\\n诚心提问，大家平时写多长的线条？后半部分因为手肘运行产生弧度而变向怎么呀？感谢！！\",\"hasMore\":false}",
+              "taskId": 621938,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33284048,
+              "createdTime": "2023-03-01T21:52:29+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230301/2023030109493643542031.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230301/2023030109494034598965.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230301/2023030109493891663629.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY10-累了累了，写完睡觉。平时都是早晨写写硬笔，今早甚乏没写，晚上补了一下，害！果然没搞定，明早提前起一会继续补吧，加油！！\",\"hasMore\":false}",
+              "taskId": 621937,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33270202,
+              "createdTime": "2023-02-28T23:18:08+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230228/2023022811042515688833.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230228/2023022811042605112495.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY9-无事，遂与友人小酌，归来已至睡时，反复不能寐，起又夜书一小时，酒正酣，手弱身乏，线不成形。愈写愈燥，强压心猿，至书毕，又觉酣畅，欣然若所悟。\\n今日书语：养成习惯，毋须多时；置身其间，是常乐境；莫问得失，且行且乐。\",\"hasMore\":false}",
+              "taskId": 619721,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33247607,
+              "createdTime": "2023-02-27T20:08:09+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230227/2023022708030537972555.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230227/2023022708030926570458.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230227/2023022708031109427107.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY8-坚持就是胜利✌️给自己立了个线条只拉100天看看能到什么程度的小实验玩玩，但愿4个月内能完成吧🤡🤡如果完不成…\",\"hasMore\":false}",
+              "taskId": 619559,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33235159,
+              "createdTime": "2023-02-26T22:06:37+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230226/2023022610041014243362.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230226/2023022610041013217317.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230226/2023022610041015249318.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"DAY7-画线条一周了，抖抖擞擞，不慌不慌，就是慢慢练。\",\"hasMore\":false}",
+              "taskId": 619558,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33207942,
+              "createdTime": "2023-02-24T20:16:05+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230224/2023022408090353488272.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230224/2023022408090357186817.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230224/2023022408090361466233.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":3,\"audioTotalCount\":0,\"text\":\"DAY6/今天手感觉比昨天稳了！开始慢慢不注意效果了，而是感受写字带来的静和快感了，真正想要的原来是这个，一手好字只是自然而然，坚持下去的馈赠而已，差点本末倒置了。希望明天还是保持这种心态。\\n今日书语：由它好坏，随喜观之。\",\"hasMore\":false}",
+              "taskId": 619719,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33195194,
+              "createdTime": "2023-02-23T20:19:17+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230223/2023022308161589260414.jpg\",\"idx\":0},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230223/2023022308161268278872.jpg\",\"idx\":1},{\"width\":3024,\"height\":4032,\"src\":\"https://cc.hjfile.cn/cc/img/20230223/2023022308161595054851.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":4,\"audioTotalCount\":0,\"text\":\"DAY6/第六天依旧菜，继续向大佬们学习，今儿悟到了点什么东西，但不多哈哈哈哈。\\n\",\"hasMore\":false}",
+              "taskId": 619647,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33182647,
+              "createdTime": "2023-02-22T21:20:13+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230222/2023022209135239282771.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230222/2023022209135362594363.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230222/2023022209135393181473.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":6,\"audioTotalCount\":0,\"text\":\"DAY4/DAY5。昨天加班，匆匆写完没打卡，今天补上，也不分哪天哪天了。多少感觉自己有点大病……今天写着写着手会突然一抖，不晓得是不是昨晚熬大夜的原因，明天再写写试试😵\\n今日书语：丑没关系，别太粗，别太粗，别太粗，同时感觉提和按，不能只靠笔的支撑，手要同时使用上下两种力。\",\"hasMore\":false}",
+              "taskId": 619557,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33156876,
+              "createdTime": "2023-02-20T22:37:35+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230220/20230220102727070592.jpg\",\"idx\":0},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230220/2023022010272712025465.jpg\",\"idx\":1}],\"audios\":[],\"imageTotalCount\":2,\"audioTotalCount\":0,\"text\":\"DAY-3，手依旧抖，今天发现的问题有两个，一个是关于线条粗细的控制，觉得三分笔肯定是不行的，开局效果应该会好一些，进步效果怕是奇缓（纯个人猜测），所以线条还是要尝试稍微细点，以练提按协调；二是长线条身体角度，总会不自觉通过转身体去画线条，而不是通过肩肘，以后要注意肩膀打开，线条从左到右肩肘开合而非腰部转动。另外要么是真的写的奇差，要么是拍照可以放大问题，以后要多用手机拍警示自己。\",\"hasMore\":false}",
+              "taskId": 612157,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33140335,
+              "createdTime": "2023-02-19T22:10:26+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230219/2023021910060184926006.jpg\",\"idx\":0},{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230219/2023021910060188265426.jpg\",\"idx\":1},{\"width\":1280,\"height\":1707,\"src\":\"https://cc.hjfile.cn/cc/img/20230219/2023021910060197710554.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":5,\"audioTotalCount\":0,\"text\":\"DAY2-练线条时站的有点累，觉得不该这样，手都抖成筛子了，总不能让腿也抖个不停，何不隔三差五跑跑。\\n软硬兼施，身心同修，自今日始。\\n今日书语：提按之道，难在提笔；急缓之法，贵乎缓行。\",\"hasMore\":false}",
+              "taskId": 612060,
+              "taskName": "每日一练"
+          },
+          {
+              "contentId": 33125307,
+              "createdTime": "2023-02-18T20:25:44+0800",
+              "preventCheatStatus": 0,
+              "simpleContent": "{\"images\":[{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230218/2023021808232168575732.jpg\",\"idx\":0},{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230218/2023021808232174924124.jpg\",\"idx\":1},{\"width\":1707,\"height\":1280,\"src\":\"https://cc.hjfile.cn/cc/img/20230218/2023021808232287699770.jpg\",\"idx\":2}],\"audios\":[],\"imageTotalCount\":6,\"audioTotalCount\":0,\"text\":\"DAY1。开始了，可一定要坚持住啊，第一天练长线条，果然感觉肘肩两关节跟生锈的机器一样，不是很灵敏。\",\"hasMore\":false}",
+              "taskId": 612156,
+              "taskName": "每日一练"
+          }
+      ],
+      "total": 272
+  },
+  "message": "success",
+  "status": 0
+}
