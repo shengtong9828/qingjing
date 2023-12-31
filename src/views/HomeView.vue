@@ -11,14 +11,14 @@
     </div>
     <div>
       <van-row v-for="item in tableData">
-        <div class="box">
+        <div class="box" @click="showTask(item)">
           <div>{{item.createdTime}}</div>
           <div>
             {{item.simpleContent.text}}
           </div>
           <div>
             <span v-for="(i, index) in item.simpleContent.images">
-              <img :src="i.src" style="width: 100px;height: 100px;margin: 5px;" @click="showImagePreview(item.simpleContent.images, index)">
+              <img :src="i.src" style="width: 100px;height: 100px;margin: 5px;" @click.stop="showImagePreview(item.simpleContent.images, index)">
             </span>
           </div>
         </div>
@@ -29,39 +29,59 @@
     </van-image-preview>
     <van-pagination v-model="pageConfig.page" :total-items="allData.total" :items-per-page="pageConfig.pageSize" @change="pageChange" />
     <van-popup v-model:show="showPicker" round position="bottom">
-      <van-picker title="标题" :columns="columns" :columns-field-names="customFieldName" @confirm="onConfirm" @cancel="showPicker = false"/>
+      <van-picker :columns="columns" :columns-field-names="customFieldName" @confirm="onConfirm" @cancel="showPicker = false"/>
+    </van-popup>
+    <van-popup v-model:show="showTaskPicker" round position="bottom" :style="{ height: '80%' }">
+      <div v-for="task in taskList">
+        <div class="box" style="width: calc(100% - 20px);">
+        <div style="display: flex;align-items: center;">
+          <div>
+            <img :src="task.userInfo.avatar" style="width: 60px;height: 60px;margin: 5px;">
+          </div>
+          <div>
+            <div>{{task.userInfo.nickName}}{{task.parentUserInfo ? `回复${task.parentUserInfo.nickName}` : ''}}</div>
+            <div>{{task.createdTime}}</div>
+          </div>
+        </div>
+        <div>
+          {{ task.content.text }}
+        </div>
+      </div>
+      </div>
     </van-popup>
   </div>
 </template>
 
 <script>
-import a0779 from '../data/0779.json'
-import a0264 from '../data/0264.json'
-import a1077 from '../data/1077.json'
-import acqx from '../data/cqx.json'
-import a0893 from '../data/0893.json'
-import a0530 from '../data/0530.json'
-import a0087 from '../data/0087.json'
-import a1087 from '../data/1087.json'
-import a0579 from '../data/0579.json'
-import a0503 from '../data/0503.json'
-import a0069 from '../data/0069.json'
-import alywz from '../data/lywz.json'
-import a0485 from '../data/0485.json'
-import a1136 from '../data/1136.json'
-import a0464 from '../data/0464.json'
-import a0830 from '../data/0830.json'
-import a0983 from '../data/0983.json'
-import a0578 from '../data/0578.json'
-import axxx from '../data/xxx.json'
-import a0999 from '../data/0999.json'
-import a0115 from '../data/0115.json'
-import a0439 from '../data/0439.json'
-import a0521 from '../data/0521.json'
-import a0138 from '../data/0138.json'
-import a0696 from '../data/0696.json'
-import a1250 from '../data/1250.json'
-import a1067 from '../data/1067.json'
+import axios from 'axios'
+
+// import a0779 from '../data/0779.json'
+// import a0264 from '../data/0264.json'
+// import a1077 from '../data/1077.json'
+// import acqx from '../data/cqx.json'
+// import a0893 from '../data/0893.json'
+// import a0530 from '../data/0530.json'
+// import a0087 from '../data/0087.json'
+// import a1087 from '../data/1087.json'
+// import a0579 from '../data/0579.json'
+// import a0503 from '../data/0503.json'
+// import a0069 from '../data/0069.json'
+// import alywz from '../data/lywz.json'
+// import a0485 from '../data/0485.json'
+// import a1136 from '../data/1136.json'
+// import a0464 from '../data/0464.json'
+// import a0830 from '../data/0830.json'
+// import a0983 from '../data/0983.json'
+// import a0578 from '../data/0578.json'
+// import axxx from '../data/xxx.json'
+// import a0999 from '../data/0999.json'
+// import a0115 from '../data/0115.json'
+// import a0439 from '../data/0439.json'
+// import a0521 from '../data/0521.json'
+// import a0138 from '../data/0138.json'
+// import a0696 from '../data/0696.json'
+// import a1250 from '../data/1250.json'
+// import a1067 from '../data/1067.json'
 
 const columns = [
   { id: 'a0779', name: '2毛毛毛【0779】', value: '0779'},
@@ -96,35 +116,35 @@ const columns = [
 export default {
   data() {
     return { 
-      originData: {
-        a0779,
-        a0264,
-        a1077,
-        acqx,
-        a0893,
-        a0530,
-        a0087,
-        a1087,
-        a0579,
-        a0503,
-        a0069,
-        alywz,
-        a0485,
-        a1136,
-        a0464,
-        a0830,
-        a0983,
-        a0578,
-        axxx,
-        a0999,
-        a0115,
-        a0439,
-        a0521,
-        a0138,
-        a0696,
-        a1250,
-        a1067,
-      },
+      // originData: {
+      //   a0779,
+      //   a0264,
+      //   a1077,
+      //   acqx,
+      //   a0893,
+      //   a0530,
+      //   a0087,
+      //   a1087,
+      //   a0579,
+      //   a0503,
+      //   a0069,
+      //   alywz,
+      //   a0485,
+      //   a1136,
+      //   a0464,
+      //   a0830,
+      //   a0983,
+      //   a0578,
+      //   axxx,
+      //   a0999,
+      //   a0115,
+      //   a0439,
+      //   a0521,
+      //   a0138,
+      //   a0696,
+      //   a1250,
+      //   a1067,
+      // },
       allData: {},
       tableData: [],
       allTableData: [],
@@ -139,29 +159,44 @@ export default {
       columns,
       customFieldName: {
         text: 'name',
-        value: 'id'
+        value: 'value'
       },
-      showPicker: false
+      showPicker: false,
+      showTaskPicker: false,
+      taskList: []
     }
   },
   created() {
-    this.getData('a0779')
+    this.getData('0069')
   },
   methods: {
     getData(id) {
-      this.allData = this.originData[id].data
-      this.headInfo = this.allData.dakaUserInfo
-      this.allTableData = this.allData.items
-      this.allTableData.forEach(i => {
-        i.simpleContent = JSON.parse(i.simpleContent)
+      axios.get(`/data/${id}.json`).then(res => {
+        console.log('getData', res);
+        this.allData = res.data.data
+        this.headInfo = this.allData.dakaUserInfo
+        this.allTableData = this.allData.items
+        this.allTableData.forEach(i => {
+          i.simpleContent = JSON.parse(i.simpleContent)
+        })
+        this.pageConfig.page = 1
+        this.pageConfig.pageSize = 10
+        this.tableData = this.allTableData.slice((this.pageConfig.page - 1)*this.pageConfig.pageSize, this.pageConfig.pageSize)
       })
-      this.pageConfig.page = 1
-      this.pageConfig.pageSize = 10
-      this.tableData = this.allTableData.slice((this.pageConfig.page - 1)*this.pageConfig.pageSize, this.pageConfig.pageSize)
     },
     onChange(index) {
       console.log('index ---',index);
       this.index = index;
+    },
+    showTask({contentId, taskId}) {
+      axios.get(`/task/${contentId}_${taskId}.json`).then(res => {
+        console.log(res);
+        this.taskList = res.data.data.items
+        this.taskList.forEach(i => {
+          i.content = JSON.parse(i.content)
+        })
+        this.showTaskPicker = true
+      })
     },
     showImagePreview(images, index) {
       this.index = index
@@ -175,7 +210,7 @@ export default {
     },
     onConfirm ({ selectedOptions }) {
       console.log('selectedOptions', selectedOptions);
-      this.getData(selectedOptions[0].id)
+      this.getData(selectedOptions[0].value)
       this.showPicker = false;
     }
   }
