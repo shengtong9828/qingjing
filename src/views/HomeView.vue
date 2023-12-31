@@ -55,34 +55,6 @@
 <script>
 import axios from 'axios'
 
-// import a0779 from '../data/0779.json'
-// import a0264 from '../data/0264.json'
-// import a1077 from '../data/1077.json'
-// import acqx from '../data/cqx.json'
-// import a0893 from '../data/0893.json'
-// import a0530 from '../data/0530.json'
-// import a0087 from '../data/0087.json'
-// import a1087 from '../data/1087.json'
-// import a0579 from '../data/0579.json'
-// import a0503 from '../data/0503.json'
-// import a0069 from '../data/0069.json'
-// import alywz from '../data/lywz.json'
-// import a0485 from '../data/0485.json'
-// import a1136 from '../data/1136.json'
-// import a0464 from '../data/0464.json'
-// import a0830 from '../data/0830.json'
-// import a0983 from '../data/0983.json'
-// import a0578 from '../data/0578.json'
-// import axxx from '../data/xxx.json'
-// import a0999 from '../data/0999.json'
-// import a0115 from '../data/0115.json'
-// import a0439 from '../data/0439.json'
-// import a0521 from '../data/0521.json'
-// import a0138 from '../data/0138.json'
-// import a0696 from '../data/0696.json'
-// import a1250 from '../data/1250.json'
-// import a1067 from '../data/1067.json'
-
 const columns = [
   { id: 'a0779', name: '2毛毛毛【0779】', value: '0779'},
   { id: 'a0264', name: '0264小毛', value: '0264'},
@@ -111,40 +83,18 @@ const columns = [
   { id: 'a0696', name: '张小旭【0696】', value: '0696'},
   { id: 'a1250', name: '这是我家阿刃1250', value: '1250'},
   { id: 'a1067', name: '子静 1067', value: '1067'},
+  { id: 'a0585', name: '乏善可陈0585', value: '0585'},
+  { id: 'a0785', name: '正己化人0785', value: '0785'},
+  { id: 'a1140', name: '知临1140', value: '1140'},
+  { id: 'a0724', name: '知追0724', value: '0724'},
+  { id: 'a0225', name: 'L&LH0225', value: '0225'},
+  { id: 'a0801', name: 'Qin韵【0801】', value: '0801'},
+  { id: 'a0855', name: 'WJW【0855】', value: '0855'},
 ]
 
 export default {
   data() {
     return { 
-      // originData: {
-      //   a0779,
-      //   a0264,
-      //   a1077,
-      //   acqx,
-      //   a0893,
-      //   a0530,
-      //   a0087,
-      //   a1087,
-      //   a0579,
-      //   a0503,
-      //   a0069,
-      //   alywz,
-      //   a0485,
-      //   a1136,
-      //   a0464,
-      //   a0830,
-      //   a0983,
-      //   a0578,
-      //   axxx,
-      //   a0999,
-      //   a0115,
-      //   a0439,
-      //   a0521,
-      //   a0138,
-      //   a0696,
-      //   a1250,
-      //   a1067,
-      // },
       allData: {},
       tableData: [],
       allTableData: [],
