@@ -13,7 +13,13 @@
     <div>
       <van-row v-for="item in tableData" :key="item.contentId">
         <div class="box" @click="showTask(item)">
-          <div>{{dateStr(item.createdTime)}}</div>
+          <div style="display: flex;justify-content: space-between;margin: 10px 0;">
+            <div>
+              <div>{{item.taskList.length}}条评论</div>
+              <div style="color: red;">{{item.evaluateStatus === 1 ? '已点评' : ''}}</div>
+            </div>
+            <div>{{dateStr(item.createdTime)}} </div>
+          </div>
           <div>
             {{item.simpleContent.text}}
           </div>
@@ -33,6 +39,7 @@
       <van-picker :columns="columns" :columns-field-names="customFieldName" @confirm="onConfirm" @cancel="showPicker = false"/>
     </van-popup>
     <van-popup v-model:show="showTaskPicker" round position="bottom" :style="{ height: '80%' }">
+      <div v-if="!taskList.length" style="text-align: center;margin: 10px;">暂无评论</div>
       <div v-for="task in taskList" :key="task.id">
         <div class="box" style="width: calc(100% - 20px);">
         <div style="display: flex;align-items: center;">
@@ -40,7 +47,8 @@
             <img :src="task.userInfo.avatar" style="width: 60px;height: 60px;margin: 5px;">
           </div>
           <div>
-            <div>{{task.userInfo.nickName}}{{task.parentUserInfo ? `回复${task.parentUserInfo.nickName}` : ''}}</div>
+            <div style="color: red;">{{task.evaluateStatus === 1 ? '点评' : ''}}</div>
+            <div>{{task.userInfo.nickName}}<span v-show="task.parentUserInfo" style="margin: 0 10px;">回复</span>{{task.parentUserInfo ? `${task.parentUserInfo.nickName}` : ''}}</div>
             <div>{{dateStr(task.createdTime)}}</div>
           </div>
         </div>
@@ -58,6 +66,8 @@
 
 <script>
 import axios from 'axios'
+import { showToast } from 'vant'
+import 'vant/es/toast/style'
 
 const columns = [
   { id: 'a0521', name: '一隻柳【0521】', value: '0521'},
@@ -132,13 +142,13 @@ export default {
       }
     }
   },
-  created() {
-    this.getData('0521')
+  async created() {
+    await this.getData('0521')
   },
   methods: {
-    getData(id) {
+    async getData(id) {
       this.loading = true
-      axios.get(`/data/${id}.json`).then(res => {
+      await axios.get(`/data/${id}.json`).then(async res => {
         this.allData = res.data.data
         this.headInfo = this.allData.dakaUserInfo
         this.allTableData = this.allData.items
@@ -148,38 +158,63 @@ export default {
           i.simpleContent.images.forEach(j => {
             j.src = imgRpl(j.src)
           })
+          i.taskList = []
+          i.evaluateStatus = 0
         })
         this.pageConfig.page = 1
         this.pageConfig.pageSize = 5
         this.tableData = this.allTableData.slice((this.pageConfig.page - 1)*this.pageConfig.pageSize, this.pageConfig.pageSize)
+        await this.getCurrData()
       }).finally(() => {
         this.loading = false
       })
+    },
+    async getCurrData() {
+        for (let item of this.tableData) {
+          const {contentId, taskId} = item
+          await axios.get(`/task/${contentId}_${taskId}.json`).then(res => {
+            item.taskList = res.data.data.items
+            item.taskList.forEach(i => {
+              i.content = JSON.parse(i.content)
+              i.userInfo.avatar = imgRpl(i.userInfo.avatar)
+            })
+            if (item.taskList.some(x => x.evaluateStatus === 1)) {
+              item.evaluateStatus = 1
+            }
+          })
+        }
     },
     onChange(index) {
       this.index = index;
     },
-    showTask({contentId, taskId}) {
-      this.loading = true
-      axios.get(`/task/${contentId}_${taskId}.json`).then(res => {
-        this.taskList = res.data.data.items
-        this.taskList.forEach(i => {
-          i.content = JSON.parse(i.content)
-          i.userInfo.avatar = imgRpl(i.userInfo.avatar)
-        })
+    showTask({taskList}) {
+      this.taskList = taskList
+      if (this.taskList.length) {
         this.showTaskPicker = true
-      }).finally(() => {
-        this.loading = false
-      })
+      } else {
+        showToast('暂无评论')
+      }
+      // this.loading = true
+      // axios.get(`/task/${contentId}_${taskId}.json`).then(res => {
+      //   this.taskList = res.data.data.items
+      //   this.taskList.forEach(i => {
+      //     i.content = JSON.parse(i.content)
+      //     i.userInfo.avatar = imgRpl(i.userInfo.avatar)
+      //   })
+      //   this.showTaskPicker = true
+      // }).finally(() => {
+      //   this.loading = false
+      // })
     },
     showImagePreview(images, index) {
       this.index = index
       this.images = images.map(i => i.src)
       this.show = true
     },
-    pageChange(e) {
+    async pageChange(e) {
       this.pageChange.page = e
       this.tableData = this.allTableData.slice((this.pageConfig.page - 1)*this.pageConfig.pageSize, this.pageConfig.page*this.pageConfig.pageSize)
+      await this.getCurrData()
     },
     onConfirm ({ selectedOptions }) {
       this.getData(selectedOptions[0].value)
