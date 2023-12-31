@@ -122,7 +122,6 @@ export default {
   methods: {
     getData(id) {
       axios.get(`/data/${id}.json`).then(res => {
-        console.log('getData', res);
         this.allData = res.data.data
         this.headInfo = this.allData.dakaUserInfo
         this.allTableData = this.allData.items
@@ -135,12 +134,10 @@ export default {
       })
     },
     onChange(index) {
-      console.log('index ---',index);
       this.index = index;
     },
     showTask({contentId, taskId}) {
       axios.get(`/task/${contentId}_${taskId}.json`).then(res => {
-        console.log(res);
         this.taskList = res.data.data.items
         this.taskList.forEach(i => {
           i.content = JSON.parse(i.content)
@@ -155,11 +152,9 @@ export default {
     },
     pageChange(e) {
       this.pageChange.page = e
-      console.log('this.pageChange.page', this.pageChange.page);
       this.tableData = this.allTableData.slice((this.pageConfig.page - 1)*this.pageConfig.pageSize, this.pageConfig.page*this.pageConfig.pageSize)
     },
     onConfirm ({ selectedOptions }) {
-      console.log('selectedOptions', selectedOptions);
       this.getData(selectedOptions[0].value)
       this.showPicker = false;
     }
