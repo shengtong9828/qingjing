@@ -3,8 +3,7 @@
     <div class="box" style="width: calc(100% - 20px);" @click="showPicker = true">
       <div style="display: flex;align-items: center;">
         <div>
-          <img :src="'https://qingjing-01.oss-cn-beijing.aliyuncs.com/img/2023123011581192865446.jpg'" style="width: 60px;height: 60px;margin: 5px;">
-          <!-- <img :src="headInfo.avatar" style="width: 60px;height: 60px;margin: 5px;"> -->
+          <img :src="headInfo.avatar" style="width: 60px;height: 60px;margin: 5px;">
         </div>
         <div>{{headInfo.nickName}}</div>
       </div>
@@ -107,7 +106,7 @@ const columns = [
 ]
 
 const imgRpl = (src) => {
-  return `https://qingjing-01.oss-cn-beijing.aliyuncs.com${src.replace('https://cc.hjfile.cn/cc', '').replace('https://i2n.hjfile.cn', '').replace('https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132', '/u/132.jpg')}`
+  return `${false ? 'https://qingjing-01.oss-cn-beijing.aliyuncs.com': ''}${src.replace('https://cc.hjfile.cn/cc', '').replace('https://i2n.hjfile.cn', '').replace('https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132', '/u/132.jpg')}`
 }
 
 export default {
