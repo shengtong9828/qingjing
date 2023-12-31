@@ -3,21 +3,22 @@
     <div class="box" style="width: calc(100% - 20px);" @click="showPicker = true">
       <div style="display: flex;align-items: center;">
         <div>
-          <img :src="headInfo.avatar" style="width: 60px;height: 60px;margin: 5px;">
+          <img :src="'https://qingjing-01.oss-cn-beijing.aliyuncs.com/img/2023123011581192865446.jpg'" style="width: 60px;height: 60px;margin: 5px;">
+          <!-- <img :src="headInfo.avatar" style="width: 60px;height: 60px;margin: 5px;"> -->
         </div>
         <div>{{headInfo.nickName}}</div>
       </div>
       
     </div>
     <div>
-      <van-row v-for="item in tableData">
+      <van-row v-for="item in tableData" :key="item.contentId">
         <div class="box" @click="showTask(item)">
-          <div>{{item.createdTime}}</div>
+          <div>{{dateStr(item.createdTime)}}</div>
           <div>
             {{item.simpleContent.text}}
           </div>
           <div>
-            <span v-for="(i, index) in item.simpleContent.images">
+            <span v-for="(i, index) in item.simpleContent.images" :key="i.src">
               <img :src="i.src" style="width: 100px;height: 100px;margin: 5px;" @click.stop="showImagePreview(item.simpleContent.images, index)">
             </span>
           </div>
@@ -32,7 +33,7 @@
       <van-picker :columns="columns" :columns-field-names="customFieldName" @confirm="onConfirm" @cancel="showPicker = false"/>
     </van-popup>
     <van-popup v-model:show="showTaskPicker" round position="bottom" :style="{ height: '80%' }">
-      <div v-for="task in taskList">
+      <div v-for="task in taskList" :key="task.id">
         <div class="box" style="width: calc(100% - 20px);">
         <div style="display: flex;align-items: center;">
           <div>
@@ -40,7 +41,7 @@
           </div>
           <div>
             <div>{{task.userInfo.nickName}}{{task.parentUserInfo ? `回复${task.parentUserInfo.nickName}` : ''}}</div>
-            <div>{{task.createdTime}}</div>
+            <div>{{dateStr(task.createdTime)}}</div>
           </div>
         </div>
         <div>
@@ -49,6 +50,9 @@
       </div>
       </div>
     </van-popup>
+    <van-popup v-model:show="loading" style="width: 100vw;height: 100vh;max-width: 100vw;">
+      <van-loading type="spinner" color="#1989fa" style="top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100px; text-align: center;" />
+    </van-popup>
   </div>
 </template>
 
@@ -56,41 +60,45 @@
 import axios from 'axios'
 
 const columns = [
-  { id: 'a0779', name: '2毛毛毛【0779】', value: '0779'},
-  { id: 'a0264', name: '0264小毛', value: '0264'},
-  { id: 'a1077', name: '曹1077', value: '1077'},
-  { id: 'acqx', name: '陈秋杏', value: 'cqx'},
-  { id: 'a0893', name: '大风机关 【0893】', value: '0893'},
-  { id: 'a0530', name: '東南隅【0530】', value: '0530'},
-  { id: 'a0087', name: '而归【0087】', value: '0087'},
-  { id: 'a1087', name: '风起 1087', value: '1087'},
-  { id: 'a0579', name: '风中吃西瓜579', value: '0579'},
-  { id: 'a0503', name: '讲文明院长【0503】', value: '0503'},
-  { id: 'a0069', name: '今天航海【0069】', value: '0069'},
-  { id: 'alywz', name: '乐也屋子', value: 'lywz'},
-  { id: 'a0485', name: '路十一0485', value: '0485'},
-  { id: 'a1136', name: '南风1136', value: '1136'},
-  { id: 'a0464', name: '太阳当空赵【0464】', value: '0464'},
-  { id: 'a0830', name: '兔斯基爱写字0830', value: '0830'},
-  { id: 'a0983', name: '悟空0983', value: '0983'},
-  { id: 'a0578', name: '小王【0578】', value: '0578'},
-  { id: 'axxx', name: '小星星', value: 'xxx'},
-  { id: 'a0999', name: '小影子【999】', value: '0999'},
-  { id: 'a0115', name: '筱杭（0115）', value: '0115'},
-  { id: 'a0439', name: '谢喻生【439】', value: '0439'},
   { id: 'a0521', name: '一隻柳【0521】', value: '0521'},
-  { id: 'a0138', name: '饮川【0138】', value: '0138'},
-  { id: 'a0696', name: '张小旭【0696】', value: '0696'},
   { id: 'a1250', name: '这是我家阿刃1250', value: '1250'},
-  { id: 'a1067', name: '子静 1067', value: '1067'},
-  { id: 'a0585', name: '乏善可陈0585', value: '0585'},
-  { id: 'a0785', name: '正己化人0785', value: '0785'},
+  { id: 'a1136', name: '南风1136', value: '1136'},
+  { id: 'a1087', name: '风起 1087', value: '1087'},
+  { id: 'a1077', name: '曹1077', value: '1077'},
   { id: 'a1140', name: '知临1140', value: '1140'},
+  { id: 'a1067', name: '子静 1067', value: '1067'},
+  { id: 'a0999', name: '小影子【999】', value: '0999'},
+  { id: 'a0785', name: '正己化人0785', value: '0785'},
+  { id: 'a0115', name: '筱杭（0115）', value: '0115'},
+  { id: 'a0983', name: '悟空0983', value: '0983'},
   { id: 'a0724', name: '知追0724', value: '0724'},
   { id: 'a0225', name: 'L&LH0225', value: '0225'},
   { id: 'a0801', name: 'Qin韵【0801】', value: '0801'},
+  { id: 'a0779', name: '2毛毛毛【0779】', value: '0779'},
+  { id: 'a0579', name: '风中吃西瓜579', value: '0579'},
+  { id: 'a0503', name: '讲文明院长【0503】', value: '0503'},
+  { id: 'a0893', name: '大风机关 【0893】', value: '0893'},
+  { id: 'a0585', name: '乏善可陈0585', value: '0585'},
+  { id: 'a0696', name: '张小旭【0696】', value: '0696'},
+  { id: 'acqx', name: '陈秋杏', value: 'cqx'},
+  { id: 'a0138', name: '饮川【0138】', value: '0138'},
+  { id: 'a0485', name: '路十一0485', value: '0485'},
+  { id: 'a0464', name: '太阳当空赵【0464】', value: '0464'},
+  { id: 'a0264', name: '0264小毛', value: '0264'},
+  { id: 'a0439', name: '谢喻生【439】', value: '0439'},
+  { id: 'a0530', name: '東南隅【0530】', value: '0530'},
+  { id: 'a0578', name: '小王【0578】', value: '0578'},
+  { id: 'alywz', name: '乐也屋子', value: 'lywz'},
+  { id: 'a0830', name: '兔斯基爱写字0830', value: '0830'},
+  { id: 'axxx', name: '小星星', value: 'xxx'},
+  { id: 'a0087', name: '而归【0087】', value: '0087'},
   { id: 'a0855', name: 'WJW【0855】', value: '0855'},
+  { id: 'a0069', name: '今天航海【0069】', value: '0069'},
 ]
+
+const imgRpl = (src) => {
+  return `https://qingjing-01.oss-cn-beijing.aliyuncs.com${src.replace('https://cc.hjfile.cn/cc', '').replace('https://i2n.hjfile.cn', '').replace('https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132', '/u/132.jpg')}`
+}
 
 export default {
   data() {
@@ -104,7 +112,7 @@ export default {
       images: [],
       pageConfig: {
         page: 1,
-        pageSize: 10
+        pageSize: 5
       },
       columns,
       customFieldName: {
@@ -113,36 +121,55 @@ export default {
       },
       showPicker: false,
       showTaskPicker: false,
-      taskList: []
+      taskList: [],
+      loading: false
+    }
+  },
+  computed: {
+    dateStr() {
+      return function(date) {
+        return date.replace('T', ' ').replace('+0800', '')
+      }
     }
   },
   created() {
-    this.getData('0069')
+    this.getData('0521')
   },
   methods: {
     getData(id) {
+      this.loading = true
       axios.get(`/data/${id}.json`).then(res => {
         this.allData = res.data.data
         this.headInfo = this.allData.dakaUserInfo
         this.allTableData = this.allData.items
+        this.headInfo.avatar = imgRpl(this.headInfo.avatar)
         this.allTableData.forEach(i => {
           i.simpleContent = JSON.parse(i.simpleContent)
+          i.simpleContent.images.forEach(j => {
+            j.src = imgRpl(j.src)
+          })
         })
         this.pageConfig.page = 1
-        this.pageConfig.pageSize = 10
+        this.pageConfig.pageSize = 5
         this.tableData = this.allTableData.slice((this.pageConfig.page - 1)*this.pageConfig.pageSize, this.pageConfig.pageSize)
+      }).finally(() => {
+        this.loading = false
       })
     },
     onChange(index) {
       this.index = index;
     },
     showTask({contentId, taskId}) {
+      this.loading = true
       axios.get(`/task/${contentId}_${taskId}.json`).then(res => {
         this.taskList = res.data.data.items
         this.taskList.forEach(i => {
           i.content = JSON.parse(i.content)
+          i.userInfo.avatar = imgRpl(i.userInfo.avatar)
         })
         this.showTaskPicker = true
+      }).finally(() => {
+        this.loading = false
       })
     },
     showImagePreview(images, index) {
