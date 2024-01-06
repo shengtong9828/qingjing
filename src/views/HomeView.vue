@@ -183,6 +183,12 @@ export default {
               item.evaluateStatus = 1
             }
           })
+          if (item.simpleContent.hasMore) {
+            await axios.get(`/has_more/${contentId}_${taskId}.json`).then(res => {
+              console.log(res);
+              item.simpleContent.text = JSON.parse(res.data.data.content).text
+            })
+          }
         }
     },
     onChange(index) {
